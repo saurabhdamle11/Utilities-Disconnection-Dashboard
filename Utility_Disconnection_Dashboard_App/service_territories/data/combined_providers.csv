@@ -1,0 +1,273 @@
+﻿State,Utility Name,EIA_table,electric ID,gas ID,EIA_Name,EIA_state,notes
+Arizona,Ajo Improvement Company,electric,176,#N/A,AJO IMPROVEMENT CO,AZ,
+Arizona,Arizona Public Service Company,electric,803,#N/A,ARIZONA PUBLIC SERVICE CO,AZ,
+Arizona,The Morenci Water and Electric Co.,electric,12919,#N/A,MORENCI WATER AND ELECTRIC,AZ,
+Arizona,Tuscon Electric Power,electric,24211,#N/A,TUCSON ELECTRIC POWER CO,AZ,
+Arizona,UNS Electric,electric,19728,#N/A,"UNS ELECTRIC, INC",AZ,
+California,Pacific Gas and Electric Company,electric,14328,#N/A,PACIFIC GAS & ELECTRIC CO.,CA,
+California,San Diego Gas & Electric,electric,16609,#N/A,SAN DIEGO GAS & ELECTRIC CO,CA,
+California,Southern California Edison Company,electric,17609,#N/A,SOUTHERN CALIFORNIA EDISON CO,CA,
+California,Southern California Gas Company,gas,#N/A,LDC060006CA,SOUTHERN CALIFORNIA GAS COMPANY,CA,
+Colorado,Atmos Energy,,#N/A,#N/A,,,multiple in gas TX ATMOST ENERGY CORPORATION
+Colorado,"Black Hills Colorado Electric, LLC",electric,56146,#N/A,"BLACK HILLS COLORADO ELECTRIC, LLC",CO,
+Colorado,"Black Hills Colorado Gas, Inc",,#N/A,#N/A,,,
+Colorado,Public Service Company of Colorado,electric,15466,LDC080011CO,PUBLIC SERVICE CO OF COLORADO,CO,
+Connecticut,Connecticut Natural Gas Corporation,gas,#N/A,LDC090003CT,CONNETICUT NATURAL GAS CORP,CT,
+Connecticut,Eversource Energy,,#N/A,#N/A,,,possible match:  gas MA NSTAR GAS COMPANY
+Connecticut,The Southern Connecticut Gas Company,gas,#N/A,LDC090004CT,SOUTHERN CONNECTICUT GAS,CT,
+Connecticut,The United Illuminating Company,electric,19497,#N/A,UNITED ILLUMINATING CO,CT,
+Connecticut,Yankee Gas Services,gas,#N/A,LDC090001CT,YANKEE GAS SERVICE CO.,CT,
+Florida,Duke Energy,electric,6455,#N/A,"DUKE ENERGY FLORIDA, LLC",FL,
+Florida,Florida City Gas,gas,#N/A,LDC120006FL,FLORIDA CITY GAS COMPANY,FL,
+Florida,Florida Power & Light Company,electric,6452,#N/A,FLORIDA POWER & LIGHT CO,FL,
+Florida,Florida Public Utilities,electric,6457,LDC120010FL,FLORIDA PUBLIC UTILITIES CO,FL,
+Florida,Gulf Power,electric,7801,#N/A,GULF POWER CO,FL,
+Florida,Peoples Gas System's,gas,#N/A,LDC120025FL,"PEOPLES GAS SYSTEMS, INC",FL,
+Florida,Tampa Electric Company,electric,18454,#N/A,TAMPA ELECTRIC CO,FL,
+Florida,"Utilities, Inc. of Florida",,#N/A,#N/A,,,
+Georgia,Georgia Power,electric,7140,#N/A,GEORGIA POWER CO,GA,
+Illinois,Ameren Illinois,electric,56697,#N/A,AMEREN ILLINOIS COMPANY,IL,
+Illinois,Commonwealth Edison,electric,4110,#N/A,COMMONWEALTH EDISON CO,IL,
+Illinois,MidAmerican Energy Company,electric,12341,#N/A,MIDAMERICAN ENERGY CO,IA,gas and electric in EIA listed in Iowa
+Indiana,AES Indiana,,#N/A,#N/A,,,
+Indiana,Duke,,#N/A,#N/A,,,"multiple possible matches:  several gas and electric that include ""duke"""
+Indiana,"Duke Energy Indiana, LLC",electric,15470,#N/A,"DUKE ENERGY INDIANA, LLC",IN,
+Indiana,Indiana Michigan Power,,#N/A,#N/A,,,close duplicate: Indiana Michigan Power Company
+Indiana,Indiana Michigan Power Company,electric,9324,#N/A,INDIANA MICHIGAN POWER CO,IN,
+Indiana,Indianapolis Power & Light Company,electric,9273,#N/A,INDIANAPOLIS POWER & LIGHT CO,IN,
+Indiana,Midwest Natural Gas Corporation,gas,#N/A,LDC180013IN,MIDWEST NATURAL GAS,IN,
+Indiana,Northern Indiana Public Service Company,electric,13756,#N/A,NORTHERN INDIANA PUB SERV CO,IN,also in gas
+Indiana,Northern Indiana Public Service Company (NIPSCO),,#N/A,#N/A,,,close duplicate Northern Indiana Public Service Company
+Indiana,Ohio Valley Gas Corporation,gas,#N/A,LDC180017IN,OHIO VALLEY GAS CORP.,IN,multiple shape files
+Indiana,Sycamore Gas Company,gas,#N/A,LDC180011IN,SYCAMORE GAS CO,IN,
+Indiana,Vectren North,,#N/A,#N/A,,,"gas, OH: VECTREN ENERGY DELIVERY OF OHIO"
+Indiana,Vectren South,,#N/A,#N/A,,,"gas, OH: VECTREN ENERGY DELIVERY OF OHIO"
+Iowa,Alliant Energy (Interstate Power & Light) - Electric,electric,9417,#N/A,INTERSTATE POWER AND LIGHT CO,IA,
+Iowa,Alliant Energy (Interstate Power & Light) - Gas,,#N/A,#N/A,,,IA in electric or WI in gas multiple INTERSTATE PWR&LIGHT CO (ALLIANT ENERGY)
+Iowa,Amana Society Service Company - Electric,electric,471,#N/A,AMANA SOCIETY SERVICE CO,IA,
+Iowa,Black Hills Energy,,#N/A,#N/A,,,multiple in gas SD BLACK HILLS ENERGY
+Iowa,Black Hills Energy (Aquila) - Gas,,#N/A,#N/A,,,multiple in gas SD BLACK HILLS ENERGY
+Iowa,Interstate Power and Light,electric,9417,#N/A,INTERSTATE POWER AND LIGHT CO,IA,
+Iowa,Liberty Energy (Atmos) - Gas,,#N/A,#N/A,,,multiple in gas TX ATMOST ENERGY CORPORATION
+Iowa,Liberty Utilities,,#N/A,#N/A,,,multiple in gas AZ LIBERTY UTILITIES
+Iowa,Linn County Rural Electric Cooperative - Electric,electric,11053,#N/A,LINN COUNTY REC,IA,
+Iowa,MidAmerican Energy - Electric,,#N/A,#N/A,,,close duplicate: electric MIDAMERICAN ENERGY CO
+Iowa,MidAmerican Energy - Gas,gas,#N/A,LDC190045IA,MIDAMERICAN ENERGY,IA,multiple
+Iowa,MidAmerican Energy Company,electric,12341,#N/A,MIDAMERICAN ENERGY CO,IA,
+Kansas,Atmos Energy Corporation,,#N/A,#N/A,,,multiple in gas TX ATMOST ENERGY CORPORATION
+Kentucky,"Columbia Gas of Kentucky, Inc",gas,#N/A,LDC210011OH,COLUMBIA GAS OF KENTUCKY,OH,
+Kentucky,Duke Energy Kentucky Inc,gas,19446,LDC210036KY,DUKE ENERGY KENTUCKY,KY,
+Kentucky,Kentucky Power Company,electric,22053,#N/A,KENTUCKY POWER CO,OH,
+Kentucky,Kentucky Utilities Company,electric,10171,#N/A,KENTUCKY UTILITIES CO,KY,
+Kentucky,Louisville Gas and Electric,electric,11249,#N/A,LOUISVILLE GAS & ELECTRIC CO,KY,
+Maine,Central Maine Power,electric,3266,#N/A,CENTRAL MAINE POWER CO,ME,
+Maine,"Eastern Maine Electric Cooperative, Inc",electric,5609,#N/A,EASTERN MAINE ELECTRIC COOP,ME,
+Maine,Fox Islands Electric Cooperative,electric,8780,#N/A,"FOX ISLANDS ELECTRIC COOP, INC",ME,
+Maine,Houlton Water Company,electric,8883,#N/A,HOULTON WATER COMPANY,ME,
+Maine,Kennebunk Light & Power District,electric,10144,#N/A,KENNEBUNK LIGHT & POWER DIST,ME,
+Maine,"Town of Madison, Dept of Electric Works",electric,11477,#N/A,TOWN OF MADISON - (ME),ME,
+Maine,Van Buren Light & Power,electric,19702,#N/A,VAN BUREN LIGHT & POWER DIST,ME,
+Maine,Versant Power,electric,1179,#N/A,VERSANT POWER,ME,
+Maryland,A&N Electric Cooperatve,electric,84,#N/A,A & N ELECTRIC COOP,VA,
+Maryland,Artesan Water Maryland,,#N/A,#N/A,,,
+Maryland,Baltimore Gas & Electric Company,electric,1167,#N/A,BALTIMORE GAS & ELECTRIC CO,MD,
+Maryland,Baltimore Gas and Electric Company,,#N/A,#N/A,,,close duplicate: Baltimore Gas & Electric Company
+Maryland,Chesapeake Elkton Gas,gas,#N/A,LDC240002MD,ELKTON GAS COMPANY,MD,
+Maryland,Chesapeake-Maryland Utilities,,#N/A,#N/A,,,
+Maryland,Choptank Electric Coop,,#N/A,#N/A,,,close duplicate: Choptank Electric Coop
+Maryland,Choptank Electric Cooperative,electric,3503,#N/A,"CHOPTANK ELECTRIC COOPERATIVE, INC",MD,
+Maryland,Columbia Gas Of Maryland,gas,#N/A,LDC240003MD,COLUMBIA GAS OF WASHINGTON/MARYLAND,MD,
+Maryland,Delmarva Power,gas,5027,LDC100001DE,DELMARVA POWER,DE,
+Maryland,Delmarva Power & Light Company,,#N/A,#N/A,,,close duplicate: Demarva Power
+Maryland,Maryland American Water Company,,#N/A,#N/A,,,
+Maryland,Pepco Holdings Inc,,#N/A,#N/A,,,possible match: electric DC POTOMAC ELECTRIC POWER CO
+Maryland,Potomac Edison,electric,15263,#N/A,THE POTOMAC EDISON COMPANY,PA,
+Maryland,Potomac Electric Power Company,electric ,15270,#N/A,POTOMAC ELECTRIC POWER CO,DC,
+Maryland,Sandpiper Energy,,#N/A,#N/A,,,
+Maryland,Southern Maryland Electric Cooperative,electric,17637,#N/A,SOUTHERN MARYLAND ELEC COOP INC,MD,
+Maryland,UGI Central Penn Gas,gas,#N/A,LDC420018PA,UGI CENTRAL PENN GAS,PA,multiple
+Maryland,UGI utilities,electric,19390,#N/A,"UGI UTILITIES, INC",PA,
+Maryland,Washington Gas Light Company,gas,#N/A,LDC510008VA,WASHINGTON GAS,VA,multiple.  close duplicate: Washington Gas Light Company in WA
+Massachusetts,Berkshire Gas Company,gas,#N/A,LDC250001MA,BERKSHIRE GAS CO,MA,
+Massachusetts,Blackstone Gas Company,gas,#N/A,LDC250011MA,BLACKSTONE GAS CO,MA,
+Massachusetts,Boston Gas Company,,#N/A,#N/A,,,"possible match:  gas MA NEW BOSTON GAS DEPT, CITY OF"
+Massachusetts,Colonial Gas Co,,#N/A,#N/A,,,
+Massachusetts,Colonial Gas Company,,#N/A,#N/A,,,
+Massachusetts,Columbia Gas of Massachusetts,gas,#N/A,LDC250010MA,COLUMBIA GAS OF MASSACHUSETTS,MA,
+Massachusetts,Eversource Energy - Electric,,#N/A,#N/A,,,possible match: electric MA WESTERN MASSACHUSETTS ELECTRIC COMPANY
+Massachusetts,Eversource Energy - Gas,,#N/A,#N/A,,,possible match:  gas MA  NSTAR GAS COMPANY
+Massachusetts,Eversource Gas of Massachusetts,,#N/A,#N/A,,,possible match:  gas MA  NSTAR GAS COMPANY
+Massachusetts,Eversource West,,#N/A,#N/A,,,possible match: multiple for in electric with Eversource as holding company
+Massachusetts,Fitchburg Gas & Electric Light Company,electric,6374,#N/A,FITCHBURG GAS & ELEC LIGHT CO,NH,also in gas
+Massachusetts,Liberty Utilities,electric,26510,#N/A,LIBERTY UTILITIES (GRANITE STATE ELECTRI,NH,
+Massachusetts,Massachusetts Electric Company,electric,11804,#N/A,MASSACHUSETTS ELECTRIC CO,NY,
+Massachusetts,Nantucket Electric Company,electric,13206,#N/A,NANTUCKET ELECTRIC CO,MA,
+Massachusetts,Natucket Electric Company,,#N/A,#N/A,,,close duplicate: Nantucket Electric Company
+Massachusetts,New England Natural Gas Company,,#N/A,#N/A,,,
+Massachusetts,Nstar Electric Company - Eastern MA,,#N/A,#N/A,,,possible match:  electric MA  NSTAR ELECTRIC COMPANY
+Massachusetts,Nstar Electric Company - Western MA,,#N/A,#N/A,,,possible match:  electric MA  NSTAR ELECTRIC COMPANY
+Massachusetts,Nstar Gas Company,gas,#N/A,LDC250009MA,NSTAR GAS COMPANY,MA,
+Massachusetts,The Berkshire Gas Company,,#N/A,#N/A,,,close duplicate: Berkshire Gas Company
+Massachusetts,Unitil,,#N/A,#N/A,,,possible match:  electric(NH) and gas(MA)  FITCHBURG GAS & ELEC LIGHT CO
+Michigan,Consumers Energy,electric,4254,#N/A,CONSUMERS ENERGY CO,MI,
+Michigan,DTE Energy,electric,5109,#N/A,DTE ELECTRIC COMPANY,MI,
+Michigan,Semco Energy Gas Co,gas,#N/A,LDC260008MI,SEMCO ENERGY GAS COMPANY,MI,
+Minnesota,CenterPoint Energy,,#N/A,#N/A,,,possible match:  electric TX CENTERPOINT ENERGY
+Minnesota,CenterPoint Energy - Gas,,#N/A,#N/A,,,possible match: gasTX multiple CENTERPOINT ENERGY
+Minnesota,Dakota Electric Association,electric,25177,#N/A,DAKOTA ELECTRIC ASSOCIATION,MN,
+Minnesota,Great Plains Natural Gas Company,gas,#N/A,LDC270021MN,GREAT PLAINS NATURAL GAS,MN,multiple
+Minnesota,Greater Minnesota Gas,gas,#N/A,LDC270031MN,GREATER MINNESOTA GAS INC.,MN,
+Minnesota,Minnesota Energy Resource Corporation,,#N/A,#N/A,,,close duplicate: Minnesota Energy Resources
+Minnesota,Minnesota Energy Resources,gas,#N/A,LDC270030MN,MINNESOTA ENERGY RESOURCES,MN,
+Minnesota,Minnesota Power,,#N/A,#N/A,,,possible match: electric MN ALLETE< INC
+Minnesota,"Minnesota Power (Allete, Inc)",electric,12647,#N/A,"ALLETE, INC.",MN,
+Minnesota,Northern States Power Company,electric,13780,LDC270011MN,NORTHERN STATES POWER CO,MN,
+Minnesota,Northwestern Wisconsin Electric,electric,13815,#N/A,NORTHWESTERN WISCONSIN ELEC CO,WI,
+Minnesota,Otter Tail Power Company,electric,14232,#N/A,OTTER TAIL POWER CO,MN,
+Minnesota,Xcel Energy,,#N/A,#N/A,,,possible match:  electric MN NORTHERN STATES POWER CO - MINNESOTA
+Missouri,Ameren Missouri,,#N/A,#N/A,,,possible match:  electric MO UNION ELECTRIC CO - (MO)
+Missouri,Empire,gas,#N/A,LDC290037MO,EMPIRE GAS DISTRICT,MO,
+Missouri,Evergy Metro,electric,10000,#N/A,EVERGY METRO,KS,
+Missouri,Evergy West,electric,12698,#N/A,EVERGY MISSOURI WEST,MO,
+Missouri,Liberty,,#N/A,#N/A,,,multiple possible matches in electric and gas
+Missouri,Spire,,#N/A,#N/A,,,
+Missouri,Summit,,#N/A,#N/A,,,multiple possiblel in gas
+New Hampshire,EnergyNorth Natural Gas,,#N/A,#N/A,,,possible match:  gas AZ  LIBERTY UTILITIES (ENERGYNORTH)
+New Hampshire,Eversource New Hampshire,,#N/A,#N/A,,,possible match:  electric NH  PUBLIC SERVICE CO OF NH
+New Hampshire,Granite State Electric,,#N/A,#N/A,,,close duplicate: NH  Liberty Utilities 
+New Hampshire,Liberty Utilities,electric,26510,#N/A,LIBERTY UTILITIES (GRANITE STATE ELECTRI,NH,
+New Hampshire,Northern Utilities,,#N/A,#N/A,,,possible match:  gas ME  NORTHERN UTILITIES INC. (UNITIL)
+New Hampshire,Unitil Energy Systems,electric,24590,#N/A,UNITIL ENERGY SYSTEMS,NH,
+New Jersey,Public Service Electric and Gas Company,electric,15477,#N/A,PUBLIC SERVICE ELEC & GAS CO,NJ,
+New Mexico,El Paso Electric Company,electric,5701,#N/A,EL PASO ELECTRIC CO,TX,
+New Mexico,"New Mexico Gas Company, Inc",gas,#N/A,LDC350006NM,NEW MEXICO GAS COMPANY,NM,
+New Mexico,Public Service Company of New Mexico,electric,15473,#N/A,PUBLIC SERVICE CO OF NM,NM,
+New Mexico,Southwestern Public Service Company,electric,17718,#N/A,SOUTHWESTERN PUBLIC SERVICE CO,TX,
+New Mexico,Zia Natural Gas Company,gas,#N/A,LDC350011NM,ZIA NATURAL GAS COMPANY,NM,
+New York,Central Hudson Gas & Electric Corporation,electric,3249,#N/A,CENTRAL HUDSON GAS & ELEC CORP,NY,
+New York,Consolidated Edison Company of New York,,#N/A,#N/A,,,"close duplicate:  Consolidated Edison Company of New York, Inc"
+New York,"Consolidated Edison Company of New York, Inc.",electric,4226,#N/A,CONSOLIDATED EDISON CO-NY INC,NY,
+New York,KeySpan Energy Delivery Long Island (KEDLI),,#N/A,#N/A,,,
+New York,KeySpan Energy Delivery Long Island (KEDLI) d/b/a National Grid,,#N/A,#N/A,,,
+New York,KeySpan Energy Delivery New York (KEDNY),,#N/A,#N/A,,,
+New York,KeySpan Energy Delivery New York (KEDNY) d/b/a National Grid,,#N/A,#N/A,,,
+New York,KeySpan Gas East Corporation d/b/a National Grid,,#N/A,#N/A,,,
+New York,National Fuel Gas Distribution Corporation,,#N/A,#N/A,,,
+New York,National Grid USA,,#N/A,#N/A,,,
+New York,New York State Electric & Gas Corporation,electric,13511,#N/A,NEW YORK STATE ELEC & GAS CORP,NY,
+New York,Niagara Mohawk Power Corp,electric,13573,#N/A,NIAGARA MOHAWK POWER CORP.,NY,
+New York,"Niagara Mohawk Power Corporation, d/b/a National Grid",,#N/A,#N/A,,,
+New York,Orange and Rockland Utilities,,#N/A,#N/A,,,"close duplicate: Orange and Rockland Utilities, Inc."
+New York,"Orange and Rockland Utilities, Inc.",electric,14154,#N/A,ORANGE & ROCKLAND UTILS INC,NY,
+New York,PSEG Long Island,,#N/A,#N/A,,,possible match: electric NY LONG ISLAND POWER AUTHORITY
+New York,Rochester Gas and Electric Corporation,electric,16183,#N/A,ROCHESTER GAS & ELECTRIC CORP,NY,
+New York,The Brooklyn Union Gas Company,,#N/A,#N/A,,,
+New York,The Brooklyn Union Gas Company d/b/a National Grid NY,,#N/A,#N/A,,,
+North Carolina,Dominion Energy North Carolina,,#N/A,#N/A,,,"possible match:  electric  SC  DOMINION ENERGY SOUTH CAROLINA, INC"
+North Carolina,"Duke Energy Carolinas, LLC",electric,5416,#N/A,"DUKE ENERGY CAROLINAS, LLC",NC,
+North Carolina,"Duke Energy Progress, LLC",electric,3046,#N/A,DUKE ENERGY PROGRESS - (NC),NC,
+North Carolina,Frontier Natural Gas,gas,#N/A,LDC3700011NC,FRONTIER ENERGY LLC,NC,
+North Carolina,New River Light & Power Company,electric,13482,#N/A,NEW RIVER LIGHT & POWER CO,NC,
+North Carolina,"Piedmont Natural Gas Company, Inc",gas,#N/A,LDC470041NC,PIEDMONT NATURAL GAS,NC,multiple
+North Carolina,Toccoa Natural Gas,gas,#N/A,LDC3700010GA,TOCCOA NATURAL GAS,GA`,multiple
+North Dakota,Great Plains Natural Gas Co.,gas,#N/A,LDC270021MN,GREAT PLAINS NATURAL GAS,MN,multiple
+North Dakota,Montana-Dakota Utilities Company,electric,12199,#N/A,MONTANA-DAKOTA UTILITIES CO,NC,
+North Dakota,Northern States Power Company,electric,13780,LDC270011MN,NORTHERN STATES POWER CO,MN,multiple possible in gas and electric
+North Dakota,Otter Tail Power Company,electric,14232,#N/A,OTTER TAIL POWER CO,MN,
+North Dakota,Xcel Energy,,#N/A,#N/A,,,possible match:  multiple gas MN  NORTHERN STATES POWER COMPANY (XCEL ENERGY)
+Ohio,AES Ohio,,#N/A,#N/A,,,
+Ohio,Arlington Natural Gas Company,gas,#N/A,LDC390004OH,ARLINGTON NATURAL GAS CO.,OH,
+Ohio,Brainard Gas Company,gas,#N/A,LDC390032OH,BRAINARD GAS CORPORATION,OH,
+Ohio,Choice Energy LLC,,#N/A,#N/A,,,
+Ohio,Columbia Gas of Ohio,gas,#N/A,LDC390020OH,COLUMBIA GAS OF OHIO,,
+Ohio,Dayton Power and Light Company,electric,4922,#N/A,DAYTON POWER & LIGHT CO,OH,
+Ohio,Dominion Energy Ohio,gas,#N/A,LDC390027OH,EAST OHIO GAS CO/DOMINION,OH,
+Ohio,Duke Energy Ohio,electric,3542,#N/A,DUKE ENERGY OHIO INC,OH,
+Ohio,Eastern Natural Gas Company,gas,#N/A,LDC390005OH,EASTERN NATURAL GAS,OH,
+Ohio,"Foraker Gas Company, Inc",gas,#N/A,LDC390025OH,FORAKER GAS COMPANY,OH,
+Ohio,Generation Pipeline LLC,,#N/A,#N/A,,,
+Ohio,"Glenwood Energy of Oxford, Inc.",gas,#N/A,LDC390024OH,GLENWOOD ENERGY OF OXFORD INC.,OH,
+Ohio,KNG Energy,gas,#N/A,LDC390034OH,KNG ENERGY INC.,OH,
+Ohio,Northeast Ohio Natural Gas,gas,#N/A,LDC390033OH,NORTHEAST OHIO NATURAL GAS,OH,
+Ohio,Ohio Cumberland Gas Company,gas,#N/A,LDC390011OH,OHIO CUMBERLAND GAS CO,OH,
+Ohio,Ohio Edison Company,electric,13998,#N/A,OHIO EDISON CO,OH,
+Ohio,Ohio Gas Company,gas,#N/A,LDC390012OH,OHIO GAS CO,OH,
+Ohio,Ohio Power Company,electric,14006,#N/A,OHIO POWER CO,OH,
+Ohio,Ohio Valley Gas Corporation,gas,#N/A,LDC180017IN,OHIO VALLEY GAS CORP.,IN,multiple
+Ohio,Orwell Natural Gas,gas,#N/A,LDC420020OH,ORWELL NATURAL GAS,OH,multiple
+Ohio,Piedmont Gas Company,gas,#N/A,LDC390028OH,PIEDMONT GAS COMPANY,OH,
+Ohio,Pike Natural Gas Company,gas,#N/A,LDC390021OH,PIKE NATURAL GAS,OH,
+Ohio,Sheldon Gas Company,gas,#N/A,LDC390014OH,SHELDON GAS COMPANY,OH,
+Ohio,Southeastern Natural Gas Company,gas,#N/A,LDC390015OH,SOUTHEASTERN NATURAL GAS CO,OH,
+Ohio,Suburban Natural Gas Company,gas,#N/A,LDC390022OH,SUBURBAN NATURAL GAS COMPANY,OH,
+Ohio,The Cleveland Electric Illuminating Company,electric,3755,#N/A,CLEVELAND ELECTRIC ILLUM CO,OH,
+Ohio,The Dayton Power and Light Company,,#N/A,#N/A,,,close duplicate:  Dayton Power and Light Company
+Ohio,The Illuminating Company,,#N/A,#N/A,,,possible match:  electrical CT UNITED ILLUMINATING CO
+Ohio,The Swickard Gas Company,gas,#N/A,LDC390026OH,THE SWICKARD GAS CO,OH,
+Ohio,The Toledo Edison Company,electric,18997,#N/A,THE TOLEDO EDISON CO,OH,
+Ohio,The Waterville Gas & Oil Company,gas,#N/A,LDC390017OH,WATERVILLE GAS & OIL,OH,possible match:  gas OH WATERVILLE GAS COMPANY
+Ohio,"Vectren Energy Delivery of Ohio, Inc",gas,#N/A,LDC390031OH,VECTREN ENERGY DELIVERY OF OHIO,OH,
+Ohio,"Vectren Energy Delivery of Ohio, Inc.",,#N/A,#N/A,,,"close duplicate: Vectren Energy Delivery of Ohio, Inc"
+Oregon,Avista Corporation,,#N/A,#N/A,,,multiple possible in gas and electric: WA AVISTA CORP
+Oregon,Avista Utilities,,#N/A,#N/A,,,multiple possible in gas and electric: WA AVISTA CORP
+Oregon,Casade Natural Gas Corporation,,#N/A,#N/A,,,
+Oregon,Cascade Natural Gas Corporation,gas,#N/A,LDC530002WA,CASCADE NATURAL GAS,WA,multiple
+Oregon,Idaho Power Company,electric,9191,#N/A,IDAHO POWER CO,ID,
+Oregon,NW Natural,,#N/A,#N/A,,,close duplicate:  Northwest Natural Gas Company
+Oregon,Northwest Natural Gas Company,gas,#N/A,LDC400002OR,NORTHWEST NATURAL GAS CO.,OR,
+Oregon,Pacific Power,,#N/A,#N/A,,,
+Oregon,Portland General Electric,,#N/A,#N/A,,,close duplicate:  Portland General Electric Company
+Oregon,Portland General Electric Company,electric,15248,#N/A,PORTLAND GENERAL ELECTRIC CO,OR,
+Pennsylvania,Columbia Gas of Pennsylvania,gas,#N/A,LDC420021PA,COLUMBIA GAS OF PENNSYLVANIA,PA,
+Pennsylvania,Duquesne Light Co,electric,5487,#N/A,DUQUESNE LIGHT CO,PA,
+Pennsylvania,Metropolitan Edison Company,electric,12390,#N/A,METROPOLITAN EDISON CO,OH,
+Pennsylvania,National Fuel Gas Distribution Corporation,gas,#N/A,LDC420010NY,NATIONAL FUEL GAS DISTRIBUTION,NY,multiple
+Pennsylvania,PECO Energy Co,electric,14940,LDC420011PA,PECO ENERGY CO,PA,
+Pennsylvania,PPL Electric Utilities Corporation,electric,14715,#N/A,PPL ELECTRIC UTILITIES CORP,PA,
+Pennsylvania,Pennsylvania Electric Company,electric,14711,#N/A,PENNSYLVANIA ELECTRIC CO,OH,
+Pennsylvania,Pennsylvania Power Company,electric,14716,#N/A,PENNSYLVANIA POWER CO,OH,
+Pennsylvania,Peoples Gas Company LLC,,#N/A,#N/A,,,close duplicate:  Peoples Natural Gas Company
+Pennsylvania,Peoples Natural Gas Company,gas,#N/A,LDC420001PA,PEOPLES NATURAL GAS CO.,PA,
+Pennsylvania,Philidelphia Gas Works,gas,#N/A,LDC420012PA,PHILADELPHIA GAS WORKS,PA,
+Pennsylvania,"UGI Utilities, Inc",electric,19390,#N/A,"UGI UTILITIES, INC",PA,
+Pennsylvania,West Penn Power Company,electric,20387,#N/A,WEST PENN POWER COMPANY,PA,
+Rhode Island,National Grid - RI Electric Division,,#N/A,#N/A,,,
+Rhode Island,National Grid - RI Gas Division,,#N/A,#N/A,,,
+Rhode Island,The Narragansett Electric Company,electric,13214,#N/A,THE NARRAGANSETT ELECTRIC CO,RI,
+South Carolina,Dominion Energy,,#N/A,#N/A,,,close duplicate:  Dominion Energy of South Carolina
+South Carolina,Dominion Energy South Carolina,electric,17539,#N/A,"DOMINION ENERGY SOUTH CAROLINA, INC",SC,
+South Carolina,"Duke Energy Carolinas, LLC",electric,5416,#N/A,"DUKE ENERGY CAROLINAS, LLC",NC,
+South Carolina,Duke Energy Progress,electric,3046,#N/A,DUKE ENERGY PROGRESS - (NC),NC,
+South Carolina,"Duke Energy Progress, LLC",,#N/A,#N/A,,,close duplicate:  Duke Energy Progress
+South Carolina,Duke Power,,#N/A,#N/A,,,"mutliple possibles:  electric ""Duke"""
+South Carolina,Lockhart Power Co,,#N/A,#N/A,,,close duplicate: Lockhart Power Company
+South Carolina,Lockhart Power Company,electric,11118,#N/A,LOCKHART POWER CO,SC,
+South Carolina,Piedmont Natural Gas,gas,#N/A,LDC470041NC,PIEDMONT NATURAL GAS,NC,multiple
+South Carolina,"Piedmont Natural Gas Company, Inc",,#N/A,#N/A,,,close duplicate: Piedmont Natural Gas
+South Carolina,South Carolina Electric & Gas Company,gas,#N/A,LDC450009SC,SOUTH CAROLINA ELECTRIC & GAS,SC,
+South Dakota,MidAmerican Energy Company,electric,12341,#N/A,MIDAMERICAN ENERGY CO,IA,
+South Dakota,Montana-Dakota Utilities Company,electric,12199,#N/A,MONTANA-DAKOTA UTILITIES CO,ND,
+South Dakota,Northern States Power Company,electric,13780,LDC270011MN,NORTHERN STATES POWER CO,MD,
+South Dakota,Northwestern Energy,electric,13809,#N/A,NORTHWESTERN ENERGY - (SD),SD,
+South Dakota,Otter Tail Power Company,electric,14232,#N/A,OTTER TAIL POWER CO,MN,
+Utah,Rocky Mountain Power,,#N/A,#N/A,,,
+Vermont,"Barton Village, Inc",electric,1299,#N/A,"BARTON VILLAGE, INC",VT,
+Vermont,Burlington Electric,electric,2548,#N/A,CITY OF BURLINGTON ELECTRIC - (VT),VT,
+Vermont,Green Mountain Power,electric,7601,#N/A,GREEN MOUNTAIN POWER CORP,VT,
+Vermont,Hyde Park Electric,electric,19791,#N/A,"VERMONT ELECTRIC COOPERATIVE, INC",VT,
+Vermont,Northfield Electric Department,electric,5915,#N/A,VILLAGE OF ENOSBURG FALLS - (VT),VT,
+Vermont,Swanton Village,electric,9144,#N/A,VILLAGE OF HYDE PARK - (VT),VT,
+Vermont,Vermont Electric Cooperative,electric,9806,#N/A,VILLAGE OF JOHNSON - (VT),VT,
+Vermont,Village of Enosburg Falls Water & Lighter Dept Inc,electric,12989,#N/A,VILLAGE OF MORRISVILLE - (VT),VT,
+Vermont,Village of Johnson Water & Light,electric,13789,#N/A,VILLAGE OF NORTHFIELD - (VT),VT,
+Vermont,Village of Morrisville Water & Light Department,electric,18371,#N/A,VILLAGE OF SWANTON - (VT),VT,
+Vermont,Washington Electric Cooperative,electric,20151,#N/A,WASHINGTON ELECTRIC COOP - (VT),VT,
+Washington,Avista Utilities,electric,20169,LDC530007WA,AVISTA CORP,WA,
+Washington,Cascade Natural Gas Corp,gas,#N/A,LDC530002WA,CASCADE NATURAL GAS,WA,multiple
+Washington,Northwest Natural Gas Company,,#N/A,#N/A,,,possible match:  electric CA PACIFIC GAS & ELECTRIC CO.
+Washington,Pacific Power & Light Company,,#N/A,#N/A,,,
+Washington,Puget Sound Energy,electric,15500,#N/A,PUGET SOUND ENERGY INC,WA,
+"Washington, D.C.",Potomac Electric Power Company,electric,15270,#N/A,POTOMAC ELECTRIC POWER CO,DC,
+"Washington, D.C.",Washington Gas Light Company,,#N/A,#N/A,,,
+"Washington, D.C.",Washington Gas and Light,,#N/A,#N/A,,,
+Wisconsin,Wisonsin (All Utilities),,#N/A,#N/A,,,

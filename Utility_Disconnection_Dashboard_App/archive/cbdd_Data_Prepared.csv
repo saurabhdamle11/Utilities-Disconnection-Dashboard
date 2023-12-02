@@ -1,0 +1,827 @@
+State,Month,Year,Number of Disconnections,Total Connections,Disconnection Rate
+Arizona,April,2020,0,300000,0
+Arizona,April,2021,7366,500000,0.07366
+Arizona,August,2020,0,300000,0
+Arizona,August,2021,0,500000,0
+Arizona,December,2020,0,300000,0
+Arizona,December,2021,6845,500000,0.06845
+Arizona,February,2021,6287,500000,0.06287
+Arizona,January,2020,614,100000,0.00614
+Arizona,January,2021,2,500000,0.00002
+Arizona,July,2020,0,300000,0
+Arizona,July,2021,0,500000,0
+Arizona,June,2020,0,300000,0
+Arizona,June,2021,0,500000,0
+Arizona,March,2020,0,300000,0
+Arizona,March,2021,6574,500000,0.06574
+Arizona,May,2020,0,300000,0
+Arizona,May,2021,3029,500000,0.03029
+Arizona,November,2020,0,300000,0
+Arizona,November,2021,634,500000,0.00634
+Arizona,October,2020,0,300000,0
+Arizona,October,2021,12,500000,0.00012
+Arizona,September,2020,0,300000,0
+Arizona,September,2021,0,500000,0
+California,April,2019,78523,17039572,1.80375
+California,April,2020,0,17560059,0
+California,April,2021,0,16043776,0
+California,April,2022,0,17118069,0
+California,August,2018,63050,9946519,1.30888
+California,August,2019,59737,17111561,1.37902
+California,August,2020,0,17612940,0
+California,August,2021,0,17400341,0
+California,December,2018,48018,16952045,1.18533
+California,December,2019,51384,17111375,1.2386
+California,December,2020,0,17621808,0
+California,December,2021,0,17446368,0
+California,February,2019,53607,17000145,1.27518
+California,February,2020,81597,17548037,1.64772
+California,February,2021,0,17474227,0
+California,February,2022,0,17105373,0
+California,January,2019,47498,16987333,1.19532
+California,January,2020,67659,17534015,1.36757
+California,January,2021,0,17467791,0
+California,January,2022,0,17093390,0
+California,July,2019,53685,17095418,1.25402
+California,July,2020,0,17611423,0
+California,July,2021,0,17393905,0
+California,June,2019,49381,17067004,1.18688
+California,June,2020,0,17595763,0
+California,June,2021,0,17383540,0
+California,March,2019,78787,17017169,1.78479
+California,March,2020,36054,17576271,0.73521
+California,March,2021,0,17488399,0
+California,March,2022,0,17111669,0
+California,May,2019,81528,17055342,1.83561
+California,May,2020,0,17570729,0
+California,May,2021,0,17384381,0
+California,May,2022,0,17133276,0
+California,November,2018,62558,16952338,1.53876
+California,November,2019,57416,17099455,1.39909
+California,November,2020,0,17597327,0
+California,November,2021,0,17425186,0
+California,October,2018,92888,16946648,2.15942
+California,October,2019,74338,17104339,1.68456
+California,October,2020,0,17602416,0
+California,October,2021,0,17424923,0
+California,September,2018,62255,9946123,1.31004
+California,September,2019,69332,17088900,1.57452
+California,September,2020,0,17601855,0
+California,September,2021,0,17409899,0
+Colorado,April,2020,1,500000,0.00001
+Colorado,April,2021,1624,500000,0.01624
+Colorado,August,2020,2,500000,0.00002
+Colorado,August,2021,1135,500000,0.01135
+Colorado,December,2020,455,500000,0.00455
+Colorado,December,2021,675,300000,0.00675
+Colorado,February,2020,797,500000,0.00797
+Colorado,February,2021,863,500000,0.00863
+Colorado,January,2020,2550,500000,0.0255
+Colorado,January,2021,727,500000,0.00727
+Colorado,July,2020,2,500000,0.00002
+Colorado,July,2021,1317,500000,0.01317
+Colorado,June,2020,0,500000,0
+Colorado,June,2021,1442,500000,0.01442
+Colorado,March,2020,929,500000,0.00929
+Colorado,March,2021,1154,500000,0.01154
+Colorado,May,2020,1,500000,0.00001
+Colorado,May,2021,1067,500000,0.01067
+Colorado,November,2020,762,500000,0.00762
+Colorado,November,2021,1297,500000,0.01297
+Colorado,October,2020,1497,500000,0.01497
+Colorado,October,2021,1190,500000,0.0119
+Colorado,September,2020,456,500000,0.00456
+Colorado,September,2021,1259,500000,0.01259
+Connecticut,April,2020,7,500000,0.00007
+Connecticut,April,2021,0,500000,0
+Connecticut,August,2020,1,500000,0.00001
+Connecticut,August,2021,2,500000,0.00002
+Connecticut,December,2020,0,500000,0
+Connecticut,December,2021,7699,500000,0.07699
+Connecticut,February,2020,8874,300000,0.08874
+Connecticut,February,2021,0,500000,0
+Connecticut,January,2020,7343,300000,0.07343
+Connecticut,January,2021,0,500000,0
+Connecticut,July,2020,0,500000,0
+Connecticut,July,2021,0,500000,0
+Connecticut,June,2020,0,500000,0
+Connecticut,June,2021,0,500000,0
+Connecticut,March,2020,9165,500000,0.09165
+Connecticut,March,2021,0,500000,0
+Connecticut,May,2020,0,500000,0
+Connecticut,May,2021,0,500000,0
+Connecticut,November,2020,0,500000,0
+Connecticut,November,2021,4505,500000,0.04505
+Connecticut,October,2020,0,500000,0
+Connecticut,October,2021,245,500000,0.00245
+Connecticut,September,2020,0,300000,0
+Connecticut,September,2021,2,500000,0.00002
+Florida,April,2020,0,600000,0
+Florida,April,2021,86359,700000,0.86359
+Florida,August,2020,0,700000,0
+Florida,August,2021,122481,700000,1.22481
+Florida,December,2020,121280,700000,1.2128
+Florida,February,2020,87773,700000,0.87773
+Florida,February,2021,88402,700000,0.88402
+Florida,January,2020,107030,700000,1.0703
+Florida,January,2021,95513,700000,0.95513
+Florida,July,2020,0,600000,0
+Florida,July,2021,108058,700000,1.08058
+Florida,June,2020,0,600000,0
+Florida,June,2021,108253,700000,1.08253
+Florida,March,2020,42225,700000,0.42225
+Florida,March,2021,91464,700000,0.91464
+Florida,May,2020,0,600000,0
+Florida,May,2021,89887,700000,0.89887
+Florida,November,2020,104562,700000,1.04562
+Florida,October,2020,103268,700000,1.03268
+Florida,September,2020,5315,700000,0.05315
+Florida,September,2021,133460,700000,1.3346
+Georgia,April,2020,0,100000,0
+Georgia,June,2020,0,100000,0
+Georgia,May,2020,0,100000,0
+Illinois,April,2020,0,300000,0
+Illinois,April,2021,17242,300000,0.17242
+Illinois,August,2020,5,300000,0.00005
+Illinois,August,2021,31456,300000,0.31456
+Illinois,December,2020,8,300000,0.00008
+Illinois,February,2020,0,300000,0
+Illinois,February,2021,7,300000,0.00007
+Illinois,January,2020,0,300000,0
+Illinois,January,2021,13,300000,0.00013
+Illinois,July,2020,0,300000,0
+Illinois,July,2021,27660,300000,0.2766
+Illinois,June,2020,0,300000,0
+Illinois,June,2021,27657,300000,0.27657
+Illinois,March,2020,0,300000,0
+Illinois,March,2021,2,300000,0.00002
+Illinois,May,2020,0,300000,0
+Illinois,May,2021,30185,300000,0.30185
+Illinois,November,2020,11017,300000,0.11017
+Illinois,October,2020,46126,300000,0.46126
+Illinois,September,2020,16121,300000,0.16121
+Indiana,April,2020,0,600000,0
+Indiana,April,2021,18123,600000,0.18123
+Indiana,August,2020,4178,600000,0.04178
+Indiana,August,2021,17403,600000,0.17403
+Indiana,December,2020,13469,600000,0.13469
+Indiana,December,2021,10582,300000,0.10582
+Indiana,February,2020,13716,600000,0.13716
+Indiana,February,2021,7297,600000,0.07297
+Indiana,January,2020,16799,600000,0.16799
+Indiana,January,2021,11566,600000,0.11566
+Indiana,July,2020,1193,600000,0.01193
+Indiana,July,2021,16089,600000,0.16089
+Indiana,June,2020,699,600000,0.00699
+Indiana,June,2021,18776,600000,0.18776
+Indiana,March,2020,8757,600000,0.08757
+Indiana,March,2021,18848,600000,0.18848
+Indiana,May,2020,282,600000,0.00282
+Indiana,May,2021,18571,600000,0.18571
+Indiana,November,2020,14722,600000,0.14722
+Indiana,November,2021,15047,600000,0.15047
+Indiana,October,2020,21293,600000,0.21293
+Indiana,October,2021,14957,600000,0.14957
+Indiana,September,2020,17068,600000,0.17068
+Indiana,September,2021,15927,600000,0.15927
+Iowa,April,2020,0,600000,0
+Iowa,April,2021,6192,600000,0.06192
+Iowa,August,2020,1905,600000,0.01905
+Iowa,August,2021,3055,600000,0.03055
+Iowa,December,2020,2019,600000,0.02019
+Iowa,December,2021,919,600000,0.00919
+Iowa,February,2020,701,600000,0.00701
+Iowa,February,2021,480,600000,0.0048
+Iowa,January,2020,1128,600000,0.01128
+Iowa,January,2021,447,600000,0.00447
+Iowa,July,2020,2406,600000,0.02406
+Iowa,July,2021,3066,600000,0.03066
+Iowa,June,2020,0,600000,0
+Iowa,June,2021,4944,600000,0.04944
+Iowa,March,2020,1238,600000,0.01238
+Iowa,March,2021,3108,600000,0.03108
+Iowa,May,2020,0,600000,0
+Iowa,May,2021,4416,600000,0.04416
+Iowa,November,2020,2348,600000,0.02348
+Iowa,November,2021,719,600000,0.00719
+Iowa,October,2020,7342,600000,0.07342
+Iowa,October,2021,4259,600000,0.04259
+Iowa,September,2020,3515,600000,0.03515
+Iowa,September,2021,5997,600000,0.05997
+Kansas,April,2020,0,100000,0
+Kansas,April,2021,0,100000,0
+Kansas,August,2020,0,100000,0
+Kansas,August,2021,250,100000,0.0025
+Kansas,December,2020,0,100000,0
+Kansas,December,2021,0,100000,0
+Kansas,February,2020,0,100000,0
+Kansas,February,2021,0,100000,0
+Kansas,January,2020,0,100000,0
+Kansas,January,2021,0,100000,0
+Kansas,July,2020,0,100000,0
+Kansas,July,2021,218,100000,0.00218
+Kansas,June,2020,0,100000,0
+Kansas,June,2021,0,100000,0
+Kansas,March,2020,21,100000,0.00021
+Kansas,March,2021,0,100000,0
+Kansas,May,2020,0,100000,0
+Kansas,May,2021,0,100000,0
+Kansas,November,2020,0,100000,0
+Kansas,November,2021,3,100000,0.00003
+Kansas,October,2020,0,100000,0
+Kansas,October,2021,127,100000,0.00127
+Kansas,September,2020,0,100000,0
+Kansas,September,2021,113,100000,0.00113
+Kentucky,April,2020,0,700000,0
+Kentucky,April,2021,1960,700000,0.0196
+Kentucky,August,2020,0,700000,0
+Kentucky,December,2020,1189,700000,0.01189
+Kentucky,February,2020,14317,700000,0.14317
+Kentucky,February,2021,975,700000,0.00975
+Kentucky,January,2020,14123,700000,0.14123
+Kentucky,January,2021,1821,700000,0.01821
+Kentucky,July,2020,0,700000,0
+Kentucky,June,2020,0,700000,0
+Kentucky,June,2021,9175,700000,0.09175
+Kentucky,March,2020,6650,700000,0.0665
+Kentucky,March,2021,2920,700000,0.0292
+Kentucky,May,2020,0,700000,0
+Kentucky,May,2021,2337,700000,0.02337
+Kentucky,November,2020,5,700000,0.00005
+Kentucky,October,2020,0,700000,0
+Kentucky,September,2020,0,700000,0
+Maine,April,2020,0,600000,0
+Maine,August,2020,0,600000,0
+Maine,December,2020,1,600000,0.00001
+Maine,February,2020,0,600000,0
+Maine,January,2020,1,600000,0.00001
+Maine,July,2020,0,600000,0
+Maine,June,2020,0,600000,0
+Maine,March,2020,0,600000,0
+Maine,May,2020,0,600000,0
+Maine,November,2020,0,600000,0
+Maine,October,2020,0,600000,0
+Maine,September,2020,0,600000,0
+Maryland,April,2020,0,900000,0
+Maryland,April,2021,5678,800000,0.05678
+Maryland,August,2020,0,900000,0
+Maryland,August,2021,6511,800000,0.06511
+Maryland,December,2020,91,800000,0.00091
+Maryland,December,2021,4115,800000,0.04115
+Maryland,February,2020,6043,900000,0.06043
+Maryland,February,2021,582,800000,0.00582
+Maryland,January,2020,6803,900000,0.06803
+Maryland,January,2021,490,800000,0.0049
+Maryland,July,2020,0,900000,0
+Maryland,July,2021,5996,800000,0.05996
+Maryland,June,2020,0,900000,0
+Maryland,June,2021,7421,800000,0.07421
+Maryland,March,2020,4193,900000,0.04193
+Maryland,March,2021,1252,800000,0.01252
+Maryland,May,2020,0,900000,0
+Maryland,May,2021,6248,800000,0.06248
+Maryland,November,2020,116,800000,0.00116
+Maryland,November,2021,5159,800000,0.05159
+Maryland,October,2020,189,800000,0.00189
+Maryland,October,2021,6826,800000,0.06826
+Maryland,September,2020,0,900000,0
+Maryland,September,2021,5754,800000,0.05754
+Massachusetts,April,2020,0,1200000,0
+Massachusetts,April,2021,0,1200000,0
+Massachusetts,August,2020,0,1200000,0
+Massachusetts,August,2021,6408,1200000,0.06408
+Massachusetts,December,2020,0,1200000,0
+Massachusetts,December,2021,926,1200000,0.00926
+Massachusetts,February,2020,1943,1200000,0.01943
+Massachusetts,February,2021,0,1200000,0
+Massachusetts,January,2020,1791,1200000,0.01791
+Massachusetts,January,2021,0,1200000,0
+Massachusetts,July,2020,0,1200000,0
+Massachusetts,July,2021,3572,1200000,0.03572
+Massachusetts,June,2020,0,1200000,0
+Massachusetts,June,2021,0,1200000,0
+Massachusetts,March,2020,935,1200000,0.00935
+Massachusetts,March,2021,0,1200000,0
+Massachusetts,May,2020,0,1200000,0
+Massachusetts,May,2021,0,1200000,0
+Massachusetts,November,2020,0,1200000,0
+Massachusetts,November,2021,3242,1200000,0.03242
+Massachusetts,October,2020,0,1200000,0
+Massachusetts,October,2021,6436,1200000,0.06436
+Massachusetts,September,2020,0,1200000,0
+Massachusetts,September,2021,8613,1200000,0.08613
+Massachusetts,April,2019,6211,3150607,1.7782
+Massachusetts,April,2020,0,3197001,0
+Massachusetts,April,2021,108,2883194,0.03582
+Massachusetts,April,2022,2174,2897836,0.72931
+Massachusetts,August,2019,7935,3148697,2.3964
+Massachusetts,August,2020,0,3194031,0
+Massachusetts,August,2021,4600,2877847,1.27814
+Massachusetts,August,2022,3023,2325132,0.55423
+Massachusetts,December,2019,448,3185888,0.19104
+Massachusetts,December,2020,40,2877318,0.00953
+Massachusetts,December,2021,602,2889207,0.21071
+Massachusetts,February,2020,1188,3192252,0.4393
+Massachusetts,February,2021,67,2883339,0.0199
+Massachusetts,February,2022,559,2895109,0.26688
+Massachusetts,January,2020,1066,3188509,0.4118
+Massachusetts,January,2021,90,2880969,0.02689
+Massachusetts,January,2022,486,2893258,0.25122
+Massachusetts,July,2019,6821,3150104,2.47089
+Massachusetts,July,2020,0,3195160,0
+Massachusetts,July,2021,2491,2878323,0.49609
+Massachusetts,July,2022,5434,2911340,1.32464
+Massachusetts,June,2019,6838,3150205,2.0618
+Massachusetts,June,2020,0,3197170,0
+Massachusetts,June,2021,109,2881137,0.04662
+Massachusetts,June,2022,3925,2903080,1.21894
+Massachusetts,March,2019,1317,3151343,0.45282
+Massachusetts,March,2020,620,3194817,0.22804
+Massachusetts,March,2021,67,2883490,0.02402
+Massachusetts,March,2022,769,2895079,0.28665
+Massachusetts,May,2019,8593,3149750,2.97081
+Massachusetts,May,2020,0,3197106,0
+Massachusetts,May,2021,90,2882223,0.0361
+Massachusetts,May,2022,4648,2901792,1.25828
+Massachusetts,November,2019,1207,3177961,0.37692
+Massachusetts,November,2020,64,2873924,0.01841
+Massachusetts,November,2021,2398,2883637,0.55474
+Massachusetts,October,2019,5563,3165264,1.71809
+Massachusetts,October,2020,30,2868965,0.00706
+Massachusetts,October,2021,4671,2877422,1.28978
+Massachusetts,September,2019,9920,3155738,2.88143
+Massachusetts,September,2020,10,3191297,0.02476
+Massachusetts,September,2021,5626,2872640,1.67916
+Michigan,April,2020,5752,500000,0.05752
+Michigan,April,2021,12492,500000,0.12492
+Michigan,August,2020,4396,500000,0.04396
+Michigan,August,2021,20531,500000,0.20531
+Michigan,December,2020,4395,500000,0.04395
+Michigan,December,2021,16267,500000,0.16267
+Michigan,February,2021,7304,500000,0.07304
+Michigan,January,2021,5911,500000,0.05911
+Michigan,July,2020,4067,500000,0.04067
+Michigan,July,2021,19027,500000,0.19027
+Michigan,June,2020,4116,500000,0.04116
+Michigan,June,2021,18474,500000,0.18474
+Michigan,March,2021,10193,500000,0.10193
+Michigan,May,2020,4523,500000,0.04523
+Michigan,May,2021,15301,500000,0.15301
+Michigan,November,2020,5044,500000,0.05044
+Michigan,November,2021,17724,500000,0.17724
+Michigan,October,2020,5430,500000,0.0543
+Michigan,October,2021,19647,500000,0.19647
+Michigan,September,2020,3875,500000,0.03875
+Michigan,September,2021,21346,500000,0.21346
+Minnesota,April,2020,0,600000,0
+Minnesota,April,2021,0,600000,0
+Minnesota,August,2020,0,600000,0
+Minnesota,August,2021,5093,600000,0.05093
+Minnesota,December,2020,0,600000,0
+Minnesota,December,2021,687,600000,0.00687
+Minnesota,February,2020,1701,600000,0.01701
+Minnesota,February,2021,0,600000,0
+Minnesota,January,2020,1629,600000,0.01629
+Minnesota,January,2021,0,600000,0
+Minnesota,July,2020,0,600000,0
+Minnesota,July,2021,0,600000,0
+Minnesota,June,2020,0,600000,0
+Minnesota,June,2021,0,600000,0
+Minnesota,March,2020,1132,600000,0.01132
+Minnesota,March,2021,0,600000,0
+Minnesota,May,2020,0,600000,0
+Minnesota,May,2021,0,600000,0
+Minnesota,November,2020,0,600000,0
+Minnesota,November,2021,1139,600000,0.01139
+Minnesota,October,2020,0,600000,0
+Minnesota,October,2021,1241,600000,0.01241
+Minnesota,September,2020,0,600000,0
+Minnesota,September,2021,4369,600000,0.04369
+Missouri,April,2020,0,900000,0
+Missouri,April,2021,10251,900000,0.10251
+Missouri,August,2020,18849,900000,0.18849
+Missouri,August,2021,17265,900000,0.17265
+Missouri,December,2020,1705,900000,0.01705
+Missouri,December,2021,5904,900000,0.05904
+Missouri,February,2020,4116,900000,0.04116
+Missouri,February,2021,1384,900000,0.01384
+Missouri,January,2020,3641,900000,0.03641
+Missouri,January,2021,1027,900000,0.01027
+Missouri,July,2020,7457,900000,0.07457
+Missouri,July,2021,12788,900000,0.12788
+Missouri,June,2020,0,900000,0
+Missouri,June,2021,14314,900000,0.14314
+Missouri,March,2020,7643,900000,0.07643
+Missouri,March,2021,8722,900000,0.08722
+Missouri,May,2020,0,900000,0
+Missouri,May,2021,19902,900000,0.19902
+Missouri,November,2020,8234,900000,0.08234
+Missouri,November,2021,5288,900000,0.05288
+Missouri,October,2020,18630,900000,0.1863
+Missouri,October,2021,18542,900000,0.18542
+Missouri,September,2020,19711,900000,0.19711
+Missouri,September,2021,20237,900000,0.20237
+New Hampshire,April,2020,0,500000,0
+New Hampshire,April,2021,1020,500000,0.0102
+New Hampshire,August,2020,0,500000,0
+New Hampshire,August,2021,1094,500000,0.01094
+New Hampshire,December,2020,40,500000,0.0004
+New Hampshire,February,2020,128,400000,0.00128
+New Hampshire,February,2021,35,500000,0.00035
+New Hampshire,January,2020,101,500000,0.00101
+New Hampshire,January,2021,102,500000,0.00102
+New Hampshire,July,2020,0,500000,0
+New Hampshire,July,2021,988,500000,0.00988
+New Hampshire,June,2020,0,500000,0
+New Hampshire,June,2021,594,500000,0.00594
+New Hampshire,March,2020,86,500000,0.00086
+New Hampshire,March,2021,56,500000,0.00056
+New Hampshire,May,2020,0,500000,0
+New Hampshire,May,2021,1154,500000,0.01154
+New Hampshire,November,2020,229,500000,0.00229
+New Hampshire,November,2021,426,300000,0.00426
+New Hampshire,October,2020,26,500000,0.00026
+New Hampshire,October,2021,832,500000,0.00832
+New Hampshire,September,2020,0,500000,0
+New Hampshire,September,2021,1391,500000,0.01391
+New Mexico,August,2021,3146,500000,0.03146
+New Mexico,December,2021,2127,500000,0.02127
+New Mexico,July,2021,200,100000,0.002
+New Mexico,June,2021,133,100000,0.00133
+New Mexico,May,2021,556,100000,0.00556
+New Mexico,November,2021,2860,500000,0.0286
+New Mexico,October,2021,3751,500000,0.03751
+New Mexico,September,2021,5367,500000,0.05367
+New York,April,2020,0,1000000,0
+New York,April,2021,0,1000000,0
+New York,August,2020,0,1000000,0
+New York,August,2021,0,1000000,0
+New York,December,2020,0,1000000,0
+New York,December,2021,0,1000000,0
+New York,February,2020,12436,900000,0.12436
+New York,February,2021,0,1000000,0
+New York,January,2020,11538,900000,0.11538
+New York,January,2021,0,1000000,0
+New York,July,2020,0,1000000,0
+New York,July,2021,0,1000000,0
+New York,June,2020,0,1000000,0
+New York,June,2021,0,1000000,0
+New York,March,2020,6891,900000,0.06891
+New York,March,2021,0,1000000,0
+New York,May,2020,0,1000000,0
+New York,May,2021,0,1000000,0
+New York,November,2020,0,1000000,0
+New York,November,2021,0,1000000,0
+New York,October,2020,0,1000000,0
+New York,October,2021,0,1000000,0
+New York,September,2020,0,1000000,0
+New York,September,2021,0,1000000,0
+North Carolina,April,2020,0,700000,0
+North Carolina,April,2021,7,700000,0.00007
+North Carolina,August,2020,0,700000,0
+North Carolina,August,2021,12013,700000,0.12013
+North Carolina,December,2020,11880,700000,0.1188
+North Carolina,December,2021,2966,600000,0.02966
+North Carolina,February,2020,22332,700000,0.22332
+North Carolina,February,2021,15700,700000,0.157
+North Carolina,January,2020,20929,700000,0.20929
+North Carolina,January,2021,17327,700000,0.17327
+North Carolina,July,2020,0,700000,0
+North Carolina,July,2021,11099,700000,0.11099
+North Carolina,June,2020,0,700000,0
+North Carolina,June,2021,5881,600000,0.05881
+North Carolina,March,2020,11123,700000,0.11123
+North Carolina,March,2021,3,700000,0.00003
+North Carolina,May,2020,0,700000,0
+North Carolina,May,2021,411,700000,0.00411
+North Carolina,November,2020,17568,700000,0.17568
+North Carolina,November,2021,1099,700000,0.01099
+North Carolina,October,2020,0,700000,0
+North Carolina,October,2021,2303,700000,0.02303
+North Carolina,September,2020,0,700000,0
+North Carolina,September,2021,16350,700000,0.1635
+North Dakota,April,2020,0,400000,0
+North Dakota,April,2021,672,400000,0.00672
+North Dakota,August,2020,309,400000,0.00309
+North Dakota,August,2021,985,400000,0.00985
+North Dakota,December,2020,226,400000,0.00226
+North Dakota,December,2021,211,400000,0.00211
+North Dakota,February,2020,237,400000,0.00237
+North Dakota,February,2021,207,400000,0.00207
+North Dakota,January,2020,286,400000,0.00286
+North Dakota,January,2021,347,400000,0.00347
+North Dakota,July,2020,10,400000,0.0001
+North Dakota,July,2021,944,400000,0.00944
+North Dakota,June,2020,0,400000,0
+North Dakota,June,2021,1047,400000,0.01047
+North Dakota,March,2020,128,400000,0.00128
+North Dakota,March,2021,384,400000,0.00384
+North Dakota,May,2020,0,400000,0
+North Dakota,May,2021,850,400000,0.0085
+North Dakota,November,2020,322,400000,0.00322
+North Dakota,November,2021,490,400000,0.0049
+North Dakota,October,2020,1193,400000,0.01193
+North Dakota,October,2021,852,400000,0.00852
+North Dakota,September,2020,350,400000,0.0035
+North Dakota,September,2021,1083,400000,0.01083
+Ohio,April,2015,53434,8900008,12.26476
+Ohio,April,2016,48434,8927041,9.91282
+Ohio,April,2017,36892,7130337,9.18373
+Ohio,April,2018,39614,7138345,7.67488
+Ohio,April,2019,39647,7173679,10.29106
+Ohio,April,2020,4,7249216,0.00048
+Ohio,April,2021,57624,8612828,6.8289
+Ohio,April,2022,45319,9222282,11.35046
+Ohio,August,2014,59259,8794375,9.08883
+Ohio,August,2015,60902,8832849,11.79809
+Ohio,August,2016,49676,7044279,12.91578
+Ohio,August,2017,43751,7040801,9.2541
+Ohio,August,2018,47451,7085408,12.9507
+Ohio,August,2019,47655,7147303,11.7201
+Ohio,August,2020,7112,8842321,7.39159
+Ohio,August,2021,47351,9155324,9.59583
+Ohio,December,2014,24058,8886376,3.96177
+Ohio,December,2015,30459,8917722,5.15456
+Ohio,December,2016,13725,7125068,2.5132
+Ohio,December,2017,11674,7125763,2.19329
+Ohio,December,2018,21991,7167159,4.60766
+Ohio,December,2019,25433,7227841,5.11407
+Ohio,December,2020,48350,8882270,4.67819
+Ohio,December,2021,28109,9212810,3.74368
+Ohio,February,2015,5038,8907030,1.02365
+Ohio,February,2016,28342,8942281,5.00774
+Ohio,February,2017,28691,7135199,5.79586
+Ohio,February,2018,26493,7145492,4.61567
+Ohio,February,2019,29729,7183970,7.05756
+Ohio,February,2020,29959,7238579,6.04755
+Ohio,February,2021,22879,8856624,2.57411
+Ohio,February,2022,28540,9207530,4.6862
+Ohio,January,2015,12986,8907730,2.06412
+Ohio,January,2016,19940,8928140,4.22788
+Ohio,January,2017,25706,7139030,4.48676
+Ohio,January,2018,17796,7151271,3.22137
+Ohio,January,2019,16543,7180015,4.07696
+Ohio,January,2020,30716,7237463,6.22829
+Ohio,January,2021,40842,8892028,4.19722
+Ohio,January,2022,12078,9220905,1.89911
+Ohio,July,2014,67915,8806989,10.20195
+Ohio,July,2015,62877,8842096,13.95259
+Ohio,July,2016,45009,7042226,14.17219
+Ohio,July,2017,43976,7051525,10.25782
+Ohio,July,2018,44746,7091385,12.71067
+Ohio,July,2019,44944,7157505,12.12206
+Ohio,July,2020,378,8843549,2.46244
+Ohio,July,2021,41988,9155855,7.65462
+Ohio,June,2014,66026,8826442,13.82996
+Ohio,June,2015,65418,8870002,17.9406
+Ohio,June,2016,51414,7060840,18.38262
+Ohio,June,2017,46668,7064623,9.96865
+Ohio,June,2018,48561,7102882,14.04207
+Ohio,June,2019,44389,7169124,12.83489
+Ohio,June,2020,135,8848216,2.36869
+Ohio,June,2021,50718,9168390,11.50295
+Ohio,March,2015,36738,8924571,7.36785
+Ohio,March,2016,42975,8950053,8.15907
+Ohio,March,2017,30461,7147951,8.18946
+Ohio,March,2018,30442,7143820,4.81559
+Ohio,March,2019,29518,7182271,6.33962
+Ohio,March,2020,14633,7244642,2.77801
+Ohio,March,2021,60109,8896894,7.90695
+Ohio,March,2022,41221,9233045,7.98329
+Ohio,May,2015,60306,8862465,13.70936
+Ohio,May,2016,61816,8912292,15.71013
+Ohio,May,2017,49425,7115329,15.53338
+Ohio,May,2018,50566,7117564,12.32032
+Ohio,May,2019,47555,7156048,14.27298
+Ohio,May,2020,4,7248699,0.1213
+Ohio,May,2021,67102,8599811,9.45838
+Ohio,May,2022,46758,9206216,13.09534
+Ohio,November,2014,15171,8862038,2.76935
+Ohio,November,2015,29340,8884541,5.0416
+Ohio,November,2016,26907,7093919,4.12841
+Ohio,November,2017,22126,7105245,3.66881
+Ohio,November,2018,20776,7147252,4.66499
+Ohio,November,2019,21902,7205988,4.74914
+Ohio,November,2020,43501,8867809,3.36926
+Ohio,November,2021,24811,9198032,3.00234
+Ohio,October,2014,59804,8822512,8.06112
+Ohio,October,2015,60625,8849161,10.22166
+Ohio,October,2016,43387,7061720,9.09578
+Ohio,October,2017,42221,7072200,7.53642
+Ohio,October,2018,42596,7113458,9.43494
+Ohio,October,2019,49682,7169500,9.59551
+Ohio,October,2020,86602,8852916,7.65878
+Ohio,October,2021,49559,9170798,7.64791
+Ohio,September,2014,67010,8801401,11.18691
+Ohio,September,2015,62475,8836423,11.84367
+Ohio,September,2016,46265,7047146,11.69177
+Ohio,September,2017,38236,7025915,8.68407
+Ohio,September,2018,37311,7092288,10.69047
+Ohio,September,2019,46842,7154619,11.44032
+Ohio,September,2020,41441,8847905,5.6147
+Ohio,September,2021,49102,9162689,8.42791
+Oregon,April,2020,0,600000,0
+Oregon,April,2021,0,600000,0
+Oregon,August,2020,0,600000,0
+Oregon,August,2021,415,600000,0.00415
+Oregon,December,2020,0,600000,0
+Oregon,December,2021,172,200000,0.00172
+Oregon,February,2020,2204,600000,0.02204
+Oregon,February,2021,0,600000,0
+Oregon,January,2020,2147,600000,0.02147
+Oregon,January,2021,0,600000,0
+Oregon,July,2020,0,600000,0
+Oregon,July,2021,0,600000,0
+Oregon,June,2020,0,600000,0
+Oregon,June,2021,0,600000,0
+Oregon,March,2020,1103,600000,0.01103
+Oregon,March,2021,0,600000,0
+Oregon,May,2020,0,600000,0
+Oregon,May,2021,0,600000,0
+Oregon,November,2020,0,600000,0
+Oregon,November,2021,574,200000,0.00574
+Oregon,October,2020,0,600000,0
+Oregon,October,2021,1313,600000,0.01313
+Oregon,September,2020,0,600000,0
+Oregon,September,2021,707,600000,0.00707
+Pennsylvania,April,2020,0,900000,0
+Pennsylvania,April,2021,15629,1400000,0.15629
+Pennsylvania,August,2020,0,1300000,0
+Pennsylvania,August,2021,44143,1400000,0.44143
+Pennsylvania,December,2020,257,1400000,0.00257
+Pennsylvania,December,2021,1053,1400000,0.01053
+Pennsylvania,February,2020,39,400000,0.00039
+Pennsylvania,February,2021,595,1400000,0.00595
+Pennsylvania,January,2020,20,300000,0.0002
+Pennsylvania,January,2021,2090,1400000,0.0209
+Pennsylvania,July,2020,0,1300000,0
+Pennsylvania,July,2021,36406,1400000,0.36406
+Pennsylvania,June,2020,0,900000,0
+Pennsylvania,June,2021,47809,1400000,0.47809
+Pennsylvania,March,2020,0,100000,0
+Pennsylvania,March,2021,2210,800000,0.0221
+Pennsylvania,May,2020,0,900000,0
+Pennsylvania,May,2021,38209,1400000,0.38209
+Pennsylvania,November,2020,887,1400000,0.00887
+Pennsylvania,November,2021,24429,1400000,0.24429
+Pennsylvania,October,2020,0,1400000,0
+Pennsylvania,October,2021,33467,1400000,0.33467
+Pennsylvania,September,2020,0,1300000,0
+Pennsylvania,September,2021,34370,1400000,0.3437
+Rhode Island,April,2020,0,200000,0
+Rhode Island,April,2021,0,200000,0
+Rhode Island,August,2020,0,200000,0
+Rhode Island,August,2021,1005,200000,0.01005
+Rhode Island,December,2020,0,200000,0
+Rhode Island,December,2021,105,200000,0.00105
+Rhode Island,February,2020,28,200000,0.00028
+Rhode Island,February,2021,0,200000,0
+Rhode Island,January,2020,0,200000,0
+Rhode Island,January,2021,0,200000,0
+Rhode Island,July,2020,0,200000,0
+Rhode Island,July,2021,1757,200000,0.01757
+Rhode Island,June,2020,0,200000,0
+Rhode Island,June,2021,0,200000,0
+Rhode Island,March,2020,24,200000,0.00024
+Rhode Island,March,2021,0,200000,0
+Rhode Island,May,2020,0,200000,0
+Rhode Island,May,2021,0,200000,0
+Rhode Island,November,2020,0,200000,0
+Rhode Island,November,2021,33,200000,0.00033
+Rhode Island,October,2020,0,200000,0
+Rhode Island,October,2021,1656,200000,0.01656
+Rhode Island,September,2020,0,200000,0
+Rhode Island,September,2021,2105,200000,0.02105
+South Carolina,April,2020,0,500000,0
+South Carolina,April,2021,3612,500000,0.03612
+South Carolina,August,2020,56,500000,0.00056
+South Carolina,August,2021,3494,400000,0.03494
+South Carolina,December,2020,10784,500000,0.10784
+South Carolina,December,2021,3564,500000,0.03564
+South Carolina,February,2020,4422,400000,0.04422
+South Carolina,February,2021,3654,400000,0.03654
+South Carolina,January,2020,4248,400000,0.04248
+South Carolina,January,2021,3594,400000,0.03594
+South Carolina,July,2020,36,500000,0.00036
+South Carolina,July,2021,3011,400000,0.03011
+South Carolina,June,2020,0,500000,0
+South Carolina,June,2021,3638,500000,0.03638
+South Carolina,March,2020,7844,500000,0.07844
+South Carolina,March,2021,7798,500000,0.07798
+South Carolina,May,2020,0,500000,0
+South Carolina,May,2021,3491,500000,0.03491
+South Carolina,November,2020,5040,400000,0.0504
+South Carolina,November,2021,1360,400000,0.0136
+South Carolina,October,2020,4458,400000,0.04458
+South Carolina,October,2021,1703,400000,0.01703
+South Carolina,September,2020,934,500000,0.00934
+South Carolina,September,2021,6113,500000,0.06113
+South Dakota,December,2020,1017,400000,0.01017
+South Dakota,December,2021,190,200000,0.0019
+South Dakota,February,2021,3,100000,0.00003
+South Dakota,January,2021,21,100000,0.00021
+South Dakota,June,2020,0,100000,0
+South Dakota,June,2021,818,200000,0.00818
+South Dakota,March,2021,166,300000,0.00166
+South Dakota,November,2020,1,100000,0.00001
+South Dakota,October,2020,75,100000,0.00075
+South Dakota,September,2020,1516,300000,0.01516
+South Dakota,September,2021,77,100000,0.00077
+Utah,April,2020,0,100000,0
+Utah,April,2021,225,100000,0.00225
+Utah,August,2020,252,100000,0.00252
+Utah,August,2021,219,100000,0.00219
+Utah,December,2020,130,100000,0.0013
+Utah,December,2021,68,100000,0.00068
+Utah,February,2020,197,100000,0.00197
+Utah,February,2021,186,100000,0.00186
+Utah,January,2020,243,100000,0.00243
+Utah,January,2021,201,100000,0.00201
+Utah,July,2020,0,100000,0
+Utah,July,2021,139,100000,0.00139
+Utah,June,2020,0,100000,0
+Utah,June,2021,188,100000,0.00188
+Utah,March,2020,99,100000,0.00099
+Utah,March,2021,273,100000,0.00273
+Utah,May,2020,0,100000,0
+Utah,May,2021,193,100000,0.00193
+Utah,November,2020,202,100000,0.00202
+Utah,November,2021,113,100000,0.00113
+Utah,October,2020,256,100000,0.00256
+Utah,October,2021,164,100000,0.00164
+Utah,September,2020,183,100000,0.00183
+Utah,September,2021,170,100000,0.0017
+Vermont,April,2020,0,900000,0
+Vermont,April,2021,0,1000000,0
+Vermont,August,2020,0,900000,0
+Vermont,August,2021,71,1000000,0.00071
+Vermont,December,2020,37,900000,0.00037
+Vermont,December,2021,121,900000,0.00121
+Vermont,February,2020,237,900000,0.00237
+Vermont,February,2021,0,1000000,0
+Vermont,January,2020,206,900000,0.00206
+Vermont,January,2021,0,1000000,0
+Vermont,July,2020,0,900000,0
+Vermont,July,2021,1,1000000,0.00001
+Vermont,June,2020,0,900000,0
+Vermont,June,2021,2,1000000,0.00002
+Vermont,March,2020,141,900000,0.00141
+Vermont,March,2021,0,1000000,0
+Vermont,May,2020,0,900000,0
+Vermont,May,2021,3,1000000,0.00003
+Vermont,November,2020,250,900000,0.0025
+Vermont,November,2021,53,1100000,0.00053
+Vermont,October,2020,1,900000,0.00001
+Vermont,October,2021,500,1100000,0.005
+Vermont,September,2020,1,900000,0.00001
+Vermont,September,2021,149,1100000,0.00149
+Washington,April,2020,0,500000,0
+Washington,April,2021,0,500000,0
+Washington,August,2020,0,500000,0
+Washington,August,2021,0,500000,0
+Washington,December,2020,0,500000,0
+Washington,December,2021,63,500000,0.00063
+Washington,February,2020,91,300000,0.00091
+Washington,February,2021,0,500000,0
+Washington,January,2020,255,300000,0.00255
+Washington,January,2021,0,500000,0
+Washington,July,2020,0,500000,0
+Washington,July,2021,0,500000,0
+Washington,June,2020,0,500000,0
+Washington,June,2021,0,500000,0
+Washington,March,2020,793,400000,0.00793
+Washington,March,2021,0,500000,0
+Washington,May,2020,0,500000,0
+Washington,May,2021,0,500000,0
+Washington,November,2020,0,500000,0
+Washington,November,2021,98,500000,0.00098
+Washington,October,2020,0,500000,0
+Washington,October,2021,3,500000,0.00003
+Washington,September,2020,0,500000,0
+Washington,September,2021,0,500000,0
+"Washington, D.C.",April,2020,0,200000,0
+"Washington, D.C.",April,2021,1,200000,0.00001
+"Washington, D.C.",August,2020,0,200000,0
+"Washington, D.C.",August,2021,0,200000,0
+"Washington, D.C.",December,2020,0,200000,0
+"Washington, D.C.",December,2021,0,100000,0
+"Washington, D.C.",February,2020,2144,200000,0.02144
+"Washington, D.C.",February,2021,0,200000,0
+"Washington, D.C.",January,2020,465,200000,0.00465
+"Washington, D.C.",January,2021,0,200000,0
+"Washington, D.C.",July,2020,0,200000,0
+"Washington, D.C.",July,2021,0,200000,0
+"Washington, D.C.",June,2020,0,200000,0
+"Washington, D.C.",June,2021,0,200000,0
+"Washington, D.C.",March,2020,1133,200000,0.01133
+"Washington, D.C.",March,2021,0,200000,0
+"Washington, D.C.",May,2020,0,200000,0
+"Washington, D.C.",May,2021,0,200000,0
+"Washington, D.C.",November,2020,6,200000,0.00006
+"Washington, D.C.",November,2021,0,200000,0
+"Washington, D.C.",October,2020,3,200000,0.00003
+"Washington, D.C.",October,2021,2,200000,0.00002
+"Washington, D.C.",September,2020,0,200000,0
+"Washington, D.C.",September,2021,0,200000,0
+Wisconsin,June,2021,17795,200000,0.17795
+Wisconsin,September,2021,31156,200000,0.31156

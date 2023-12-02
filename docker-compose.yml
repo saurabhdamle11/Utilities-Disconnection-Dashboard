@@ -1,0 +1,57 @@
+# This version number is just an indicator of the Docker Compose specification used when this file was made.
+# It does not affect how it will run in whatever version of Docker you are using.
+version: '3.8'
+
+# Name of the Docker project container group. (Docker Desktop requires "Use Docker Compose V2" setting enabled)
+# name: utility_disconnection_dashboard
+
+# Define services Docker will manage.
+services:
+
+  # A service we call "backend", which is the primary Python application code.
+  backend:
+
+    # Build using the Dockerfile found in the following directory (typically the application project directory).
+    build: ./Utility_Disconnection_Dashboard_App
+
+    # Command to start Gunicorn application.
+    # -w : Number of workers.
+    # -t : Number of threads.
+    # -b : IP:port to bind on (if no IP is given, bind on all IPs).
+    # app:server : Run app.py file and use "server" global variable to access WSGI server (i.e. Dash app).
+    command: gunicorn --workers=12 --threads=2 --worker-class=gthread -b :8000 app:server
+
+    # Port number to open on the container for listening to web requests.
+    # Comment this out for production deployment. In production we don't want the backend
+    # to bind to any host ports, only the frontend will do that.
+    # ports:
+    #   - 8000:8000
+
+    # Container resources to provision when running the "backend" service application.
+    deploy:
+      resources:
+        limits:
+          cpus: '12'
+          memory: 16G
+
+  # A service we call "proxy", which is the Nginx reverse proxy.
+  # Users send requests to this service, which then forwards it to the backend service.
+  proxy:
+
+    # Build Nginx image with custom configuration file.
+    build: ./nginx
+
+    # Port number to open on the container for listening to web requests.
+    ports:
+      - 80:80
+
+    # Do not start this container until the "backend" service is up and running.
+    depends_on:
+      - backend
+
+    # Container resources to provision when running the "backend" service application.
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 4G

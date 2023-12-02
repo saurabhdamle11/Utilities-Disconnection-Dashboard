@@ -1,0 +1,41 @@
+---
+header-includes:
+  - \usepackage{enumitem}
+  - \setlistdepth{20}
+  - \renewlist{itemize}{itemize}{20}
+  - \renewlist{enumerate}{enumerate}{20}
+  - \setlist[itemize]{label=$\cdot$}
+  - \setlist[itemize,1]{label=\textbullet}
+  - \setlist[itemize,2]{label=--}
+  - \setlist[itemize,3]{label=*}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox{myquote}{colback=blue!5!white, colframe=blue!75!black}
+  - \renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+  - \usepackage{fancyvrb,newverbs,xcolor}
+  - \definecolor{RoyalBlue}{RGB}{0, 35, 102}
+  - \definecolor{CodeSnippet}{gray}{.95}
+  - \definecolor{CodeSnippet}{gray}{.95}
+  - \let\oldtexttt\texttt
+  - \renewcommand{\texttt}[1]{\colorbox{CodeSnippet}{\oldtexttt{#1}}}
+  - \usepackage{setspace}
+  - \onehalfspacing
+  - \setlength{\parskip}{1em}
+  - \usepackage{indentfirst}
+  - \usepackage{float}
+  - \floatplacement{figure}{H}
+  - \hypersetup{colorlinks=true,
+        linkcolor=RoyalBlue,
+        allbordercolors={0 0 0},
+        pdfborderstyle={/S/U/W 1}}
+
+figPrefix:
+  - "Fig."
+  - "Figs."
+
+output:
+  rmarkdown::pdf_document:
+    keep_tex: yes
+indent: true
+# urlcolor: blue
+geometry: margin=0.5in
+---

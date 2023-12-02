@@ -1,0 +1,769 @@
+State,Month,Year,Number of Disconnections,Total Connections,Disconnection Rate
+Arizona,January,2020,614,4903185,0.0001
+California,January,2020,9551,39512223,0.0002
+Colorado,January,2020,2092,5758736,0.0004
+Connecticut,January,2020,5359,3565287,0.0015
+Florida,January,2020,105435,21477737,0.0049
+Georgia,January,2020,0,10617423,0.0000
+Illinois,January,2020,0,12671821,0.0000
+Indiana,January,2020,14176,6732219,0.0021
+Iowa,January,2020,960,3155070,0.0003
+Kentucky,January,2020,13450,4467673,0.0030
+Maine,January,2020,1,1344212,0.0000
+Maryland,January,2020,6586,6045680,0.0011
+Massachusetts,January,2020,1516,6892503,0.0002
+Michigan,January,2020,0,9986857,0.0000
+Minnesota,January,2020,1314,5639632,0.0002
+Missouri,January,2020,2117,6137428,0.0003
+New Hampshire,January,2020,94,1359711,0.0001
+New Mexico,January,2020,0,2096829,0.0000
+New York,January,2020,10428,19453561,0.0005
+North Carolina,January,2020,19884,10488084,0.0019
+North Dakota,January,2020,284,762062,0.0004
+Ohio,January,2020,0,11689100,0.0000
+Oregon,January,2020,1401,4217737,0.0003
+Pennsylvania,January,2020,20,12801989,0.0000
+Rhode Island,January,2020,0,1059361,0.0000
+South Carolina,January,2020,3940,5148714,0.0008
+South Dakota,January,2020,0,884659,0.0000
+Utah,January,2020,243,3205958,0.0001
+Vermont,January,2020,206,623989,0.0003
+Washington,January,2020,255,7614893,0.0000
+Washington D.C.,January,2020,465,705749,0.0007
+Wisconsin,January,2020,0,5822434,0.0000
+Arizona,February,2020,0,4903185,0.0000
+California,February,2020,10428,39512223,0.0003
+Colorado,February,2020,640,5758736,0.0001
+Connecticut,February,2020,5502,3565287,0.0015
+Florida,February,2020,85918,21477737,0.0040
+Georgia,February,2020,0,10617423,0.0000
+Illinois,February,2020,0,12671821,0.0000
+Indiana,February,2020,10779,6732219,0.0016
+Iowa,February,2020,493,3155070,0.0002
+Kentucky,February,2020,13482,4467673,0.0030
+Maine,February,2020,0,1344212,0.0000
+Maryland,February,2020,5831,6045680,0.0010
+Massachusetts,February,2020,1730,6892503,0.0003
+Michigan,February,2020,0,9986857,0.0000
+Minnesota,February,2020,1273,5639632,0.0002
+Missouri,February,2020,2785,6137428,0.0005
+New Hampshire,February,2020,122,1359711,0.0001
+New Mexico,February,2020,0,2096829,0.0000
+New York,February,2020,11347,19453561,0.0006
+North Carolina,February,2020,20110,10488084,0.0019
+North Dakota,February,2020,237,762062,0.0003
+Ohio,February,2020,0,11689100,0.0000
+Oregon,February,2020,1213,4217737,0.0003
+Pennsylvania,February,2020,39,12801989,0.0000
+Rhode Island,February,2020,8,1059361,0.0000
+South Carolina,February,2020,3986,5148714,0.0008
+South Dakota,February,2020,0,884659,0.0000
+Utah,February,2020,197,3205958,0.0001
+Vermont,February,2020,237,623989,0.0004
+Washington,February,2020,91,7614893,0.0000
+Washington D.C.,February,2020,2144,705749,0.0030
+Wisconsin,February,2020,0,5822434,0.0000
+Arizona,March,2020,0,4903185,0.0000
+California,March,2020,4194,39512223,0.0001
+Colorado,March,2020,842,5758736,0.0001
+Connecticut,March,2020,6994,3565287,0.0020
+Florida,March,2020,41427,21477737,0.0019
+Georgia,March,2020,0,10617423,0.0000
+Illinois,March,2020,0,12671821,0.0000
+Indiana,March,2020,7821,6732219,0.0012
+Iowa,March,2020,1051,3155070,0.0003
+Kentucky,March,2020,6214,4467673,0.0014
+Maine,March,2020,0,1344212,0.0000
+Maryland,March,2020,4112,6045680,0.0007
+Massachusetts,March,2020,811,6892503,0.0001
+Michigan,March,2020,0,9986857,0.0000
+Minnesota,March,2020,752,5639632,0.0001
+Missouri,March,2020,4171,6137428,0.0007
+New Hampshire,March,2020,77,1359711,0.0001
+New Mexico,March,2020,0,2096829,0.0000
+New York,March,2020,6131,19453561,0.0003
+North Carolina,March,2020,10011,10488084,0.0010
+North Dakota,March,2020,127,762062,0.0002
+Ohio,March,2020,0,11689100,0.0000
+Oregon,March,2020,496,4217737,0.0001
+Pennsylvania,March,2020,0,12801989,0.0000
+Rhode Island,March,2020,7,1059361,0.0000
+South Carolina,March,2020,7594,5148714,0.0015
+South Dakota,March,2020,0,884659,0.0000
+Utah,March,2020,99,3205958,0.0000
+Vermont,March,2020,141,623989,0.0002
+Washington,March,2020,793,7614893,0.0001
+Washington D.C.,March,2020,1133,705749,0.0016
+Wisconsin,March,2020,0,5822434,0.0000
+Arizona,April,2020,0,4903185,0.0000
+California,April,2020,0,39512223,0.0000
+Colorado,April,2020,0,5758736,0.0000
+Connecticut,April,2020,7,3565287,0.0000
+Florida,April,2020,0,21477737,0.0000
+Georgia,April,2020,0,10617423,0.0000
+Illinois,April,2020,0,12671821,0.0000
+Indiana,April,2020,0,6732219,0.0000
+Iowa,April,2020,0,3155070,0.0000
+Kentucky,April,2020,0,4467673,0.0000
+Maine,April,2020,0,1344212,0.0000
+Maryland,April,2020,0,6045680,0.0000
+Massachusetts,April,2020,0,6892503,0.0000
+Michigan,April,2020,3489,9986857,0.0003
+Minnesota,April,2020,0,5639632,0.0000
+Missouri,April,2020,0,6137428,0.0000
+New Hampshire,April,2020,0,1359711,0.0000
+New Mexico,April,2020,0,2096829,0.0000
+New York,April,2020,0,19453561,0.0000
+North Carolina,April,2020,0,10488084,0.0000
+North Dakota,April,2020,0,762062,0.0000
+Ohio,April,2020,0,11689100,0.0000
+Oregon,April,2020,0,4217737,0.0000
+Pennsylvania,April,2020,0,12801989,0.0000
+Rhode Island,April,2020,0,1059361,0.0000
+South Carolina,April,2020,0,5148714,0.0000
+South Dakota,April,2020,0,884659,0.0000
+Utah,April,2020,0,3205958,0.0000
+Vermont,April,2020,0,623989,0.0000
+Washington,April,2020,0,7614893,0.0000
+Washington D.C.,April,2020,0,705749,0.0000
+Wisconsin,April,2020,0,5822434,0.0000
+Arizona,May,2020,0,4903185,0.0000
+California,May,2020,0,39512223,0.0000
+Colorado,May,2020,1,5758736,0.0000
+Connecticut,May,2020,0,3565287,0.0000
+Florida,May,2020,0,21477737,0.0000
+Georgia,May,2020,0,10617423,0.0000
+Illinois,May,2020,0,12671821,0.0000
+Indiana,May,2020,71,6732219,0.0000
+Iowa,May,2020,0,3155070,0.0000
+Kentucky,May,2020,0,4467673,0.0000
+Maine,May,2020,0,1344212,0.0000
+Maryland,May,2020,0,6045680,0.0000
+Massachusetts,May,2020,0,6892503,0.0000
+Michigan,May,2020,2545,9986857,0.0003
+Minnesota,May,2020,0,5639632,0.0000
+Missouri,May,2020,0,6137428,0.0000
+New Hampshire,May,2020,0,1359711,0.0000
+New Mexico,May,2020,0,2096829,0.0000
+New York,May,2020,0,19453561,0.0000
+North Carolina,May,2020,0,10488084,0.0000
+North Dakota,May,2020,0,762062,0.0000
+Ohio,May,2020,0,11689100,0.0000
+Oregon,May,2020,0,4217737,0.0000
+Pennsylvania,May,2020,0,12801989,0.0000
+Rhode Island,May,2020,0,1059361,0.0000
+South Carolina,May,2020,0,5148714,0.0000
+South Dakota,May,2020,0,884659,0.0000
+Utah,May,2020,0,3205958,0.0000
+Vermont,May,2020,0,623989,0.0000
+Washington,May,2020,0,7614893,0.0000
+Washington D.C.,May,2020,0,705749,0.0000
+Wisconsin,May,2020,0,5822434,0.0000
+Arizona,June,2020,0,4903185,0.0000
+California,June,2020,0,39512223,0.0000
+Colorado,June,2020,0,5758736,0.0000
+Connecticut,June,2020,0,3565287,0.0000
+Florida,June,2020,0,21477737,0.0000
+Georgia,June,2020,0,10617423,0.0000
+Illinois,June,2020,0,12671821,0.0000
+Indiana,June,2020,137,6732219,0.0000
+Iowa,June,2020,0,3155070,0.0000
+Kentucky,June,2020,0,4467673,0.0000
+Maine,June,2020,0,1344212,0.0000
+Maryland,June,2020,0,6045680,0.0000
+Massachusetts,June,2020,0,6892503,0.0000
+Michigan,June,2020,2176,9986857,0.0002
+Minnesota,June,2020,0,5639632,0.0000
+Missouri,June,2020,0,6137428,0.0000
+New Hampshire,June,2020,0,1359711,0.0000
+New Mexico,June,2020,0,2096829,0.0000
+New York,June,2020,0,19453561,0.0000
+North Carolina,June,2020,0,10488084,0.0000
+North Dakota,June,2020,0,762062,0.0000
+Ohio,June,2020,0,11689100,0.0000
+Oregon,June,2020,0,4217737,0.0000
+Pennsylvania,June,2020,0,12801989,0.0000
+Rhode Island,June,2020,0,1059361,0.0000
+South Carolina,June,2020,0,5148714,0.0000
+South Dakota,June,2020,0,884659,0.0000
+Utah,June,2020,0,3205958,0.0000
+Vermont,June,2020,0,623989,0.0000
+Washington,June,2020,0,7614893,0.0000
+Washington D.C.,June,2020,0,705749,0.0000
+Wisconsin,June,2020,0,5822434,0.0000
+Arizona,July,2020,0,4903185,0.0000
+California,July,2020,0,39512223,0.0000
+Colorado,July,2020,2,5758736,0.0000
+Connecticut,July,2020,0,3565287,0.0000
+Florida,July,2020,0,21477737,0.0000
+Georgia,July,2020,13640,10617423,0.0013
+Illinois,July,2020,0,12671821,0.0000
+Indiana,July,2020,203,6732219,0.0000
+Iowa,July,2020,2223,3155070,0.0007
+Kentucky,July,2020,0,4467673,0.0000
+Maine,July,2020,0,1344212,0.0000
+Maryland,July,2020,0,6045680,0.0000
+Massachusetts,July,2020,0,6892503,0.0000
+Michigan,July,2020,1919,9986857,0.0002
+Minnesota,July,2020,0,5639632,0.0000
+Missouri,July,2020,3375,6137428,0.0005
+New Hampshire,July,2020,0,1359711,0.0000
+New Mexico,July,2020,0,2096829,0.0000
+New York,July,2020,0,19453561,0.0000
+North Carolina,July,2020,0,10488084,0.0000
+North Dakota,July,2020,10,762062,0.0000
+Ohio,July,2020,0,11689100,0.0000
+Oregon,July,2020,0,4217737,0.0000
+Pennsylvania,July,2020,0,12801989,0.0000
+Rhode Island,July,2020,0,1059361,0.0000
+South Carolina,July,2020,36,5148714,0.0000
+South Dakota,July,2020,0,884659,0.0000
+Utah,July,2020,0,3205958,0.0000
+Vermont,July,2020,0,623989,0.0000
+Washington,July,2020,0,7614893,0.0000
+Washington D.C.,July,2020,0,705749,0.0000
+Wisconsin,July,2020,0,5822434,0.0000
+Arizona,August,2020,0,4903185,0.0000
+California,August,2020,0,39512223,0.0000
+Colorado,August,2020,1,5758736,0.0000
+Connecticut,August,2020,0,3565287,0.0000
+Florida,August,2020,0,21477737,0.0000
+Georgia,August,2020,22210,10617423,0.0021
+Illinois,August,2020,5,12671821,0.0000
+Indiana,August,2020,2531,6732219,0.0004
+Iowa,August,2020,1678,3155070,0.0005
+Kentucky,August,2020,0,4467673,0.0000
+Maine,August,2020,0,1344212,0.0000
+Maryland,August,2020,0,6045680,0.0000
+Massachusetts,August,2020,0,6892503,0.0000
+Michigan,August,2020,1944,9986857,0.0002
+Minnesota,August,2020,0,5639632,0.0000
+Missouri,August,2020,11547,6137428,0.0019
+New Hampshire,August,2020,0,1359711,0.0000
+New Mexico,August,2020,0,2096829,0.0000
+New York,August,2020,0,19453561,0.0000
+North Carolina,August,2020,0,10488084,0.0000
+North Dakota,August,2020,309,762062,0.0004
+Ohio,August,2020,1406,11689100,0.0001
+Oregon,August,2020,0,4217737,0.0000
+Pennsylvania,August,2020,0,12801989,0.0000
+Rhode Island,August,2020,0,1059361,0.0000
+South Carolina,August,2020,56,5148714,0.0000
+South Dakota,August,2020,0,884659,0.0000
+Utah,August,2020,252,3205958,0.0001
+Vermont,August,2020,0,623989,0.0000
+Washington,August,2020,0,7614893,0.0000
+Washington D.C.,August,2020,0,705749,0.0000
+Wisconsin,August,2020,0,5822434,0.0000
+Arizona,September,2020,0,4903185,0.0000
+California,September,2020,0,39512223,0.0000
+Colorado,September,2020,358,5758736,0.0001
+Connecticut,September,2020,0,3565287,0.0000
+Florida,September,2020,4848,21477737,0.0002
+Georgia,September,2020,16727,10617423,0.0016
+Illinois,September,2020,16121,12671821,0.0013
+Indiana,September,2020,15502,6732219,0.0023
+Iowa,September,2020,3020,3155070,0.0010
+Kentucky,September,2020,0,4467673,0.0000
+Maine,September,2020,0,1344212,0.0000
+Maryland,September,2020,0,6045680,0.0000
+Massachusetts,September,2020,0,6892503,0.0000
+Michigan,September,2020,1534,9986857,0.0002
+Minnesota,September,2020,0,5639632,0.0000
+Missouri,September,2020,14362,6137428,0.0023
+New Hampshire,September,2020,0,1359711,0.0000
+New Mexico,September,2020,0,2096829,0.0000
+New York,September,2020,0,19453561,0.0000
+North Carolina,September,2020,0,10488084,0.0000
+North Dakota,September,2020,348,762062,0.0005
+Ohio,September,2020,16088,11689100,0.0014
+Oregon,September,2020,0,4217737,0.0000
+Pennsylvania,September,2020,0,12801989,0.0000
+Rhode Island,September,2020,0,1059361,0.0000
+South Carolina,September,2020,934,5148714,0.0002
+South Dakota,September,2020,1516,884659,0.0017
+Utah,September,2020,183,3205958,0.0001
+Vermont,September,2020,1,623989,0.0000
+Washington,September,2020,0,7614893,0.0000
+Washington D.C.,September,2020,0,705749,0.0000
+Wisconsin,September,2020,0,5822434,0.0000
+Arizona,October,2020,0,4903185,0.0000
+California,October,2020,0,39512223,0.0000
+Colorado,October,2020,1280,5758736,0.0002
+Connecticut,October,2020,0,3565287,0.0000
+Florida,October,2020,102831,21477737,0.0048
+Georgia,October,2020,18513,10617423,0.0017
+Illinois,October,2020,46126,12671821,0.0036
+Indiana,October,2020,20222,6732219,0.0030
+Iowa,October,2020,5427,3155070,0.0017
+Kentucky,October,2020,0,4467673,0.0000
+Maine,October,2020,0,1344212,0.0000
+Maryland,October,2020,0,6045680,0.0000
+Massachusetts,October,2020,0,6892503,0.0000
+Michigan,October,2020,2942,9986857,0.0003
+Minnesota,October,2020,0,5639632,0.0000
+Missouri,October,2020,15080,6137428,0.0025
+New Hampshire,October,2020,24,1359711,0.0000
+New Mexico,October,2020,0,2096829,0.0000
+New York,October,2020,0,19453561,0.0000
+North Carolina,October,2020,0,10488084,0.0000
+North Dakota,October,2020,1185,762062,0.0016
+Ohio,October,2020,39029,11689100,0.0033
+Oregon,October,2020,0,4217737,0.0000
+Pennsylvania,October,2020,0,12801989,0.0000
+Rhode Island,October,2020,0,1059361,0.0000
+South Carolina,October,2020,4458,5148714,0.0009
+South Dakota,October,2020,75,884659,0.0001
+Utah,October,2020,256,3205958,0.0001
+Vermont,October,2020,1,623989,0.0000
+Washington,October,2020,0,7614893,0.0000
+Washington D.C.,October,2020,3,705749,0.0000
+Wisconsin,October,2020,0,5822434,0.0000
+Arizona,November,2020,0,4903185,0.0000
+California,November,2020,0,39512223,0.0000
+Colorado,November,2020,734,5758736,0.0001
+Connecticut,November,2020,0,3565287,0.0000
+Florida,November,2020,103703,21477737,0.0048
+Georgia,November,2020,15897,10617423,0.0015
+Illinois,November,2020,11017,12671821,0.0009
+Indiana,November,2020,14185,6732219,0.0021
+Iowa,November,2020,637,3155070,0.0002
+Kentucky,November,2020,5,4467673,0.0000
+Maine,November,2020,0,1344212,0.0000
+Maryland,November,2020,0,6045680,0.0000
+Massachusetts,November,2020,0,6892503,0.0000
+Michigan,November,2020,2979,9986857,0.0003
+Minnesota,November,2020,0,5639632,0.0000
+Missouri,November,2020,6559,6137428,0.0011
+New Hampshire,November,2020,143,1359711,0.0001
+New Mexico,November,2020,0,2096829,0.0000
+New York,November,2020,0,19453561,0.0000
+North Carolina,November,2020,16966,10488084,0.0016
+North Dakota,November,2020,322,762062,0.0004
+Ohio,November,2020,19327,11689100,0.0017
+Oregon,November,2020,0,4217737,0.0000
+Pennsylvania,November,2020,0,12801989,0.0000
+Rhode Island,November,2020,0,1059361,0.0000
+South Carolina,November,2020,4744,5148714,0.0009
+South Dakota,November,2020,1,884659,0.0000
+Utah,November,2020,202,3205958,0.0001
+Vermont,November,2020,250,623989,0.0004
+Washington,November,2020,0,7614893,0.0000
+Washington D.C.,November,2020,6,705749,0.0000
+Wisconsin,November,2020,0,5822434,0.0000
+Arizona,December,2020,0,4903185,0.0000
+California,December,2020,0,39512223,0.0000
+Colorado,December,2020,452,5758736,0.0001
+Connecticut,December,2020,0,3565287,0.0000
+Florida,December,2020,120808,21477737,0.0056
+Georgia,December,2020,16343,10617423,0.0015
+Illinois,December,2020,8,12671821,0.0000
+Indiana,December,2020,12945,6732219,0.0019
+Iowa,December,2020,354,3155070,0.0001
+Kentucky,December,2020,1182,4467673,0.0003
+Maine,December,2020,1,1344212,0.0000
+Maryland,December,2020,0,6045680,0.0000
+Massachusetts,December,2020,0,6892503,0.0000
+Michigan,December,2020,2703,9986857,0.0003
+Minnesota,December,2020,0,5639632,0.0000
+Missouri,December,2020,1178,6137428,0.0002
+New Hampshire,December,2020,38,1359711,0.0000
+New Mexico,December,2020,0,2096829,0.0000
+New York,December,2020,0,19453561,0.0000
+North Carolina,December,2020,11878,10488084,0.0011
+North Dakota,December,2020,226,762062,0.0003
+Ohio,December,2020,22437,11689100,0.0019
+Oregon,December,2020,0,4217737,0.0000
+Pennsylvania,December,2020,97,12801989,0.0000
+Rhode Island,December,2020,0,1059361,0.0000
+South Carolina,December,2020,10565,5148714,0.0021
+South Dakota,December,2020,1017,884659,0.0011
+Utah,December,2020,130,3205958,0.0000
+Vermont,December,2020,37,623989,0.0001
+Washington,December,2020,0,7614893,0.0000
+Washington D.C.,December,2020,0,705749,0.0000
+Wisconsin,December,2020,0,5822434,0.0000
+Arizona,January,2021,2,4903185,0.0000
+California,January,2021,0,39512223,0.0000
+Colorado,January,2021,682,5758736,0.0001
+Connecticut,January,2021,0,3565287,0.0000
+Florida,January,2021,94415,21477737,0.0044
+Georgia,January,2021,15233,10617423,0.0014
+Illinois,January,2021,13,12671821,0.0000
+Indiana,January,2021,10033,6732219,0.0015
+Iowa,January,2021,360,3155070,0.0001
+Kentucky,January,2021,1772,4467673,0.0004
+Maine,January,2021,0,1344212,0.0000
+Maryland,January,2021,490,6045680,0.0001
+Massachusetts,January,2021,0,6892503,0.0000
+Michigan,January,2021,3377,9986857,0.0003
+Minnesota,January,2021,0,5639632,0.0000
+Missouri,January,2021,839,6137428,0.0001
+New Hampshire,January,2021,99,1359711,0.0001
+New Mexico,January,2021,0,2096829,0.0000
+New York,January,2021,0,19453561,0.0000
+North Carolina,January,2021,16561,10488084,0.0016
+North Dakota,January,2021,347,762062,0.0005
+Ohio,January,2021,17859,11689100,0.0015
+Oregon,January,2021,0,4217737,0.0000
+Pennsylvania,January,2021,1921,12801989,0.0002
+Rhode Island,January,2021,0,1059361,0.0000
+South Carolina,January,2021,3285,5148714,0.0006
+South Dakota,January,2021,21,884659,0.0000
+Utah,January,2021,201,3205958,0.0001
+Vermont,January,2021,0,623989,0.0000
+Washington,January,2021,0,7614893,0.0000
+Washington D.C.,January,2021,0,705749,0.0000
+Wisconsin,January,2021,0,5822434,0.0000
+Arizona,February,2021,6287,4903185,0.0013
+California,February,2021,0,39512223,0.0000
+Colorado,February,2021,739,5758736,0.0001
+Connecticut,February,2021,0,3565287,0.0000
+Florida,February,2021,87445,21477737,0.0041
+Georgia,February,2021,16858,10617423,0.0016
+Illinois,February,2021,7,12671821,0.0000
+Indiana,February,2021,7233,6732219,0.0011
+Iowa,February,2021,346,3155070,0.0001
+Kentucky,February,2021,799,4467673,0.0002
+Maine,February,2021,0,1344212,0.0000
+Maryland,February,2021,582,6045680,0.0001
+Massachusetts,February,2021,0,6892503,0.0000
+Michigan,February,2021,4384,9986857,0.0004
+Minnesota,February,2021,0,5639632,0.0000
+Missouri,February,2021,1161,6137428,0.0002
+New Hampshire,February,2021,34,1359711,0.0000
+New Mexico,February,2021,0,2096829,0.0000
+New York,February,2021,0,19453561,0.0000
+North Carolina,February,2021,15069,10488084,0.0014
+North Dakota,February,2021,206,762062,0.0003
+Ohio,February,2021,9800,11689100,0.0008
+Oregon,February,2021,0,4217737,0.0000
+Pennsylvania,February,2021,527,12801989,0.0000
+Rhode Island,February,2021,0,1059361,0.0000
+South Carolina,February,2021,3364,5148714,0.0007
+South Dakota,February,2021,3,884659,0.0000
+Utah,February,2021,186,3205958,0.0001
+Vermont,February,2021,0,623989,0.0000
+Washington,February,2021,0,7614893,0.0000
+Washington D.C.,February,2021,0,705749,0.0000
+Wisconsin,February,2021,0,5822434,0.0000
+Arizona,March,2021,6574,4903185,0.0013
+California,March,2021,0,39512223,0.0000
+Colorado,March,2021,991,5758736,0.0002
+Connecticut,March,2021,0,3565287,0.0000
+Florida,March,2021,90581,21477737,0.0042
+Georgia,March,2021,17965,10617423,0.0017
+Illinois,March,2021,2,12671821,0.0000
+Indiana,March,2021,16920,6732219,0.0025
+Iowa,March,2021,2564,3155070,0.0008
+Kentucky,March,2021,2048,4467673,0.0005
+Maine,March,2021,0,1344212,0.0000
+Maryland,March,2021,1252,6045680,0.0002
+Massachusetts,March,2021,0,6892503,0.0000
+Michigan,March,2021,6144,9986857,0.0006
+Minnesota,March,2021,0,5639632,0.0000
+Missouri,March,2021,6572,6137428,0.0011
+New Hampshire,March,2021,51,1359711,0.0000
+New Mexico,March,2021,0,2096829,0.0000
+New York,March,2021,0,19453561,0.0000
+North Carolina,March,2021,2,10488084,0.0000
+North Dakota,March,2021,383,762062,0.0005
+Ohio,March,2021,25292,11689100,0.0022
+Oregon,March,2021,0,4217737,0.0000
+Pennsylvania,March,2021,2084,12801989,0.0002
+Rhode Island,March,2021,0,1059361,0.0000
+South Carolina,March,2021,7401,5148714,0.0014
+South Dakota,March,2021,166,884659,0.0002
+Utah,March,2021,273,3205958,0.0001
+Vermont,March,2021,0,623989,0.0000
+Washington,March,2021,0,7614893,0.0000
+Washington D.C.,March,2021,0,705749,0.0000
+Wisconsin,March,2021,0,5822434,0.0000
+Arizona,April,2021,7366,4903185,0.0015
+California,April,2021,0,39512223,0.0000
+Colorado,April,2021,1106,5758736,0.0002
+Connecticut,April,2021,0,3565287,0.0000
+Florida,April,2021,85568,21477737,0.0040
+Georgia,April,2021,17099,10617423,0.0016
+Illinois,April,2021,17242,12671821,0.0014
+Indiana,April,2021,16024,6732219,0.0024
+Iowa,April,2021,4957,3155070,0.0016
+Kentucky,April,2021,1351,4467673,0.0003
+Maine,April,2021,0,1344212,0.0000
+Maryland,April,2021,5493,6045680,0.0009
+Massachusetts,April,2021,0,6892503,0.0000
+Michigan,April,2021,6925,9986857,0.0007
+Minnesota,April,2021,0,5639632,0.0000
+Missouri,April,2021,5281,6137428,0.0009
+New Hampshire,April,2021,691,1359711,0.0005
+New Mexico,April,2021,0,2096829,0.0000
+New York,April,2021,0,19453561,0.0000
+North Carolina,April,2021,0,10488084,0.0000
+North Dakota,April,2021,665,762062,0.0009
+Ohio,April,2021,24468,11689100,0.0021
+Oregon,April,2021,0,4217737,0.0000
+Pennsylvania,April,2021,8932,12801989,0.0007
+Rhode Island,April,2021,0,1059361,0.0000
+South Carolina,April,2021,3236,5148714,0.0006
+South Dakota,April,2021,0,884659,0.0000
+Utah,April,2021,225,3205958,0.0001
+Vermont,April,2021,0,623989,0.0000
+Washington,April,2021,0,7614893,0.0000
+Washington D.C.,April,2021,1,705749,0.0000
+Wisconsin,April,2021,0,5822434,0.0000
+Arizona,May,2021,3029,4903185,0.0006
+California,May,2021,0,39512223,0.0000
+Colorado,May,2021,741,5758736,0.0001
+Connecticut,May,2021,0,3565287,0.0000
+Florida,May,2021,89196,21477737,0.0042
+Georgia,May,2021,18387,10617423,0.0017
+Illinois,May,2021,30185,12671821,0.0024
+Indiana,May,2021,15799,6732219,0.0023
+Iowa,May,2021,3335,3155070,0.0011
+Kentucky,May,2021,1519,4467673,0.0003
+Maine,May,2021,0,1344212,0.0000
+Maryland,May,2021,5014,6045680,0.0008
+Massachusetts,May,2021,0,6892503,0.0000
+Michigan,May,2021,8251,9986857,0.0008
+Minnesota,May,2021,0,5639632,0.0000
+Missouri,May,2021,12789,6137428,0.0021
+New Hampshire,May,2021,844,1359711,0.0006
+New Mexico,May,2021,0,2096829,0.0000
+New York,May,2021,0,19453561,0.0000
+North Carolina,May,2021,392,10488084,0.0000
+North Dakota,May,2021,844,762062,0.0011
+Ohio,May,2021,28959,11689100,0.0025
+Oregon,May,2021,0,4217737,0.0000
+Pennsylvania,May,2021,25271,12801989,0.0020
+Rhode Island,May,2021,0,1059361,0.0000
+South Carolina,May,2021,3025,5148714,0.0006
+South Dakota,May,2021,0,884659,0.0000
+Utah,May,2021,193,3205958,0.0001
+Vermont,May,2021,3,623989,0.0000
+Washington,May,2021,0,7614893,0.0000
+Washington D.C.,May,2021,0,705749,0.0000
+Wisconsin,May,2021,0,5822434,0.0000
+Arizona,June,2021,0,4903185,0.0000
+California,June,2021,0,39512223,0.0000
+Colorado,June,2021,1081,5758736,0.0002
+Connecticut,June,2021,0,3565287,0.0000
+Florida,June,2021,107398,21477737,0.0050
+Georgia,June,2021,20838,10617423,0.0020
+Illinois,June,2021,27657,12671821,0.0022
+Indiana,June,2021,16856,6732219,0.0025
+Iowa,June,2021,3740,3155070,0.0012
+Kentucky,June,2021,8540,4467673,0.0019
+Maine,June,2021,0,1344212,0.0000
+Maryland,June,2021,6116,6045680,0.0010
+Massachusetts,June,2021,0,6892503,0.0000
+Michigan,June,2021,8555,9986857,0.0009
+Minnesota,June,2021,0,5639632,0.0000
+Missouri,June,2021,7368,6137428,0.0012
+New Hampshire,June,2021,467,1359711,0.0003
+New Mexico,June,2021,0,2096829,0.0000
+New York,June,2021,0,19453561,0.0000
+North Carolina,June,2021,4864,10488084,0.0005
+North Dakota,June,2021,1041,762062,0.0014
+Ohio,June,2021,0,11689100,0.0000
+Oregon,June,2021,0,4217737,0.0000
+Pennsylvania,June,2021,33403,12801989,0.0026
+Rhode Island,June,2021,0,1059361,0.0000
+South Carolina,June,2021,3158,5148714,0.0006
+South Dakota,June,2021,818,884659,0.0009
+Utah,June,2021,188,3205958,0.0001
+Vermont,June,2021,2,623989,0.0000
+Washington,June,2021,0,7614893,0.0000
+Washington D.C.,June,2021,0,705749,0.0000
+Wisconsin,June,2021,17218,5822434,0.0030
+Arizona,July,2021,0,4903185,0.0000
+California,July,2021,0,39512223,0.0000
+Colorado,July,2021,989,5758736,0.0002
+Connecticut,July,2021,0,3565287,0.0000
+Florida,July,2021,107254,21477737,0.0050
+Georgia,July,2021,19381,10617423,0.0018
+Illinois,July,2021,27660,12671821,0.0022
+Indiana,July,2021,14401,6732219,0.0021
+Iowa,July,2021,2178,3155070,0.0007
+Kentucky,July,2021,0,4467673,0.0000
+Maine,July,2021,0,1344212,0.0000
+Maryland,July,2021,4801,6045680,0.0008
+Massachusetts,July,2021,2576,6892503,0.0004
+Michigan,July,2021,7461,9986857,0.0007
+Minnesota,July,2021,0,5639632,0.0000
+Missouri,July,2021,7477,6137428,0.0012
+New Hampshire,July,2021,624,1359711,0.0005
+New Mexico,July,2021,0,2096829,0.0000
+New York,July,2021,0,19453561,0.0000
+North Carolina,July,2021,8470,10488084,0.0008
+North Dakota,July,2021,941,762062,0.0012
+Ohio,July,2021,0,11689100,0.0000
+Oregon,July,2021,0,4217737,0.0000
+Pennsylvania,July,2021,28191,12801989,0.0022
+Rhode Island,July,2021,1243,1059361,0.0012
+South Carolina,July,2021,2677,5148714,0.0005
+South Dakota,July,2021,0,884659,0.0000
+Utah,July,2021,139,3205958,0.0000
+Vermont,July,2021,1,623989,0.0000
+Washington,July,2021,0,7614893,0.0000
+Washington D.C.,July,2021,0,705749,0.0000
+Wisconsin,July,2021,0,5822434,0.0000
+Arizona,August,2021,0,4903185,0.0000
+California,August,2021,0,39512223,0.0000
+Colorado,August,2021,895,5758736,0.0002
+Connecticut,August,2021,0,3565287,0.0000
+Florida,August,2021,121307,21477737,0.0056
+Georgia,August,2021,20746,10617423,0.0020
+Illinois,August,2021,31456,12671821,0.0025
+Indiana,August,2021,15172,6732219,0.0023
+Iowa,August,2021,2392,3155070,0.0008
+Kentucky,August,2021,0,4467673,0.0000
+Maine,August,2021,0,1344212,0.0000
+Maryland,August,2021,5327,6045680,0.0009
+Massachusetts,August,2021,4598,6892503,0.0007
+Michigan,August,2021,7530,9986857,0.0008
+Minnesota,August,2021,3251,5639632,0.0006
+Missouri,August,2021,11029,6137428,0.0018
+New Hampshire,August,2021,838,1359711,0.0006
+New Mexico,August,2021,3021,2096829,0.0014
+New York,August,2021,0,19453561,0.0000
+North Carolina,August,2021,9033,10488084,0.0009
+North Dakota,August,2021,980,762062,0.0013
+Ohio,August,2021,0,11689100,0.0000
+Oregon,August,2021,43,4217737,0.0000
+Pennsylvania,August,2021,33698,12801989,0.0026
+Rhode Island,August,2021,796,1059361,0.0008
+South Carolina,August,2021,3164,5148714,0.0006
+South Dakota,August,2021,0,884659,0.0000
+Utah,August,2021,219,3205958,0.0001
+Vermont,August,2021,71,623989,0.0001
+Washington,August,2021,0,7614893,0.0000
+Washington D.C.,August,2021,0,705749,0.0000
+Wisconsin,August,2021,0,5822434,0.0000
+Arizona,September,2021,0,4903185,0.0000
+California,September,2021,0,39512223,0.0000
+Colorado,September,2021,939,5758736,0.0002
+Connecticut,September,2021,0,3565287,0.0000
+Florida,September,2021,132486,21477737,0.0062
+Georgia,September,2021,23156,10617423,0.0022
+Illinois,September,2021,0,12671821,0.0000
+Indiana,September,2021,14459,6732219,0.0021
+Iowa,September,2021,5317,3155070,0.0017
+Kentucky,September,2021,0,4467673,0.0000
+Maine,September,2021,0,1344212,0.0000
+Maryland,September,2021,5515,6045680,0.0009
+Massachusetts,September,2021,6322,6892503,0.0009
+Michigan,September,2021,7453,9986857,0.0007
+Minnesota,September,2021,2553,5639632,0.0005
+Missouri,September,2021,16018,6137428,0.0026
+New Hampshire,September,2021,1123,1359711,0.0008
+New Mexico,September,2021,5249,2096829,0.0025
+New York,September,2021,0,19453561,0.0000
+North Carolina,September,2021,14200,10488084,0.0014
+North Dakota,September,2021,1078,762062,0.0014
+Ohio,September,2021,0,11689100,0.0000
+Oregon,September,2021,111,4217737,0.0000
+Pennsylvania,September,2021,25617,12801989,0.0020
+Rhode Island,September,2021,1676,1059361,0.0016
+South Carolina,September,2021,5884,5148714,0.0011
+South Dakota,September,2021,77,884659,0.0001
+Utah,September,2021,170,3205958,0.0001
+Vermont,September,2021,149,623989,0.0002
+Washington,September,2021,0,7614893,0.0000
+Washington D.C.,September,2021,0,705749,0.0000
+Wisconsin,September,2021,30881,5822434,0.0053
+Arizona,October,2021,12,4903185,0.0000
+California,October,2021,0,39512223,0.0000
+Colorado,October,2021,973,5758736,0.0002
+Connecticut,October,2021,153,3565287,0.0000
+Florida,October,2021,0,21477737,0.0000
+Georgia,October,2021,25301,10617423,0.0024
+Illinois,October,2021,0,12671821,0.0000
+Indiana,October,2021,13834,6732219,0.0021
+Iowa,October,2021,3823,3155070,0.0012
+Kentucky,October,2021,0,4467673,0.0000
+Maine,October,2021,0,1344212,0.0000
+Maryland,October,2021,6826,6045680,0.0011
+Massachusetts,October,2021,4239,6892503,0.0006
+Michigan,October,2021,6962,9986857,0.0007
+Minnesota,October,2021,1124,5639632,0.0002
+Missouri,October,2021,15116,6137428,0.0025
+New Hampshire,October,2021,674,1359711,0.0005
+New Mexico,October,2021,3635,2096829,0.0017
+New York,October,2021,0,19453561,0.0000
+North Carolina,October,2021,1148,10488084,0.0001
+North Dakota,October,2021,852,762062,0.0011
+Ohio,October,2021,0,11689100,0.0000
+Oregon,October,2021,338,4217737,0.0001
+Pennsylvania,October,2021,27395,12801989,0.0021
+Rhode Island,October,2021,1280,1059361,0.0012
+South Carolina,October,2021,1564,5148714,0.0003
+South Dakota,October,2021,0,884659,0.0000
+Utah,October,2021,164,3205958,0.0001
+Vermont,October,2021,500,623989,0.0008
+Washington,October,2021,3,7614893,0.0000
+Washington D.C.,October,2021,2,705749,0.0000
+Wisconsin,October,2021,0,5822434,0.0000
+Arizona,November,2021,634,4903185,0.0001
+California,November,2021,0,39512223,0.0000
+Colorado,November,2021,1095,5758736,0.0002
+Connecticut,November,2021,3122,3565287,0.0009
+Florida,November,2021,0,21477737,0.0000
+Georgia,November,2021,24973,10617423,0.0024
+Illinois,November,2021,0,12671821,0.0000
+Indiana,November,2021,14356,6732219,0.0021
+Iowa,November,2021,636,3155070,0.0002
+Kentucky,November,2021,0,4467673,0.0000
+Maine,November,2021,0,1344212,0.0000
+Maryland,November,2021,5159,6045680,0.0009
+Massachusetts,November,2021,2371,6892503,0.0003
+Michigan,November,2021,6561,9986857,0.0007
+Minnesota,November,2021,771,5639632,0.0001
+Missouri,November,2021,5013,6137428,0.0008
+New Hampshire,November,2021,418,1359711,0.0003
+New Mexico,November,2021,2786,2096829,0.0013
+New York,November,2021,0,19453561,0.0000
+North Carolina,November,2021,795,10488084,0.0001
+North Dakota,November,2021,490,762062,0.0006
+Ohio,November,2021,0,11689100,0.0000
+Oregon,November,2021,0,4217737,0.0000
+Pennsylvania,November,2021,20356,12801989,0.0016
+Rhode Island,November,2021,26,1059361,0.0000
+South Carolina,November,2021,1281,5148714,0.0002
+South Dakota,November,2021,0,884659,0.0000
+Utah,November,2021,113,3205958,0.0000
+Vermont,November,2021,53,623989,0.0001
+Washington,November,2021,98,7614893,0.0000
+Washington D.C.,November,2021,0,705749,0.0000
+Wisconsin,November,2021,0,5822434,0.0000
+Arizona,December,2021,6845,4903185,0.0014
+California,December,2021,0,39512223,0.0000
+Colorado,December,2021,414,5758736,0.0001
+Connecticut,December,2021,5653,3565287,0.0016
+Florida,December,2021,0,21477737,0.0000
+Georgia,December,2021,26561,10617423,0.0025
+Illinois,December,2021,0,12671821,0.0000
+Indiana,December,2021,10582,6732219,0.0016
+Iowa,December,2021,798,3155070,0.0003
+Kentucky,December,2021,0,4467673,0.0000
+Maine,December,2021,0,1344212,0.0000
+Maryland,December,2021,4115,6045680,0.0007
+Massachusetts,December,2021,906,6892503,0.0001
+Michigan,December,2021,6174,9986857,0.0006
+Minnesota,December,2021,430,5639632,0.0001
+Missouri,December,2021,5485,6137428,0.0009
+New Hampshire,December,2021,0,1359711,0.0000
+New Mexico,December,2021,1988,2096829,0.0009
+New York,December,2021,0,19453561,0.0000
+North Carolina,December,2021,2507,10488084,0.0002
+North Dakota,December,2021,211,762062,0.0003
+Ohio,December,2021,0,11689100,0.0000
+Oregon,December,2021,0,4217737,0.0000
+Pennsylvania,December,2021,1053,12801989,0.0001
+Rhode Island,December,2021,82,1059361,0.0001
+South Carolina,December,2021,3437,5148714,0.0007
+South Dakota,December,2021,190,884659,0.0002
+Utah,December,2021,68,3205958,0.0000
+Vermont,December,2021,121,623989,0.0002
+Washington,December,2021,63,7614893,0.0000
+Washington D.C.,December,2021,0,705749,0.0000
+Wisconsin,December,2021,0,5822434,0.0000

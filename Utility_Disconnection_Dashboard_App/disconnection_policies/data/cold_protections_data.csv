@@ -1,0 +1,52 @@
+﻿State,Cold-based protections,Date-based protections,Temperature-based protections
+Alabama,Yes,No,Yes
+Alaska,No,No,No
+Arizona,No,No,No
+Arkansas,Yes,No,Yes
+California,Yes,No,Yes
+Colorado,Yes,No,Yes
+Connecticut,Yes,Yes,No
+Delaware,Yes,Yes,Yes
+District of Columbia,Yes,No,Yes
+Florida,No,No,No
+Georgia,Yes,Yes,Yes
+Hawaii,No,No,No
+Idaho,Yes,Yes,No
+Illinois,Yes,Yes,Yes
+Indiana,Yes,Yes,No
+Iowa,Yes,Yes,Yes
+Kansas,Yes,Yes,Yes
+Kentucky,Yes,Yes,No
+Louisiana,Yes,No,Yes
+Maine,Yes,Yes,Yes
+Maryland,Yes,Yes,Yes
+Massachusetts,Yes,Yes,No
+Michigan,Yes,Yes,No
+Minnesota,Yes,Yes,No
+Mississippi,Yes,Yes,No
+Missouri,Yes,No,Yes
+Montana,Yes,Yes,Yes
+Nebraska,No,No,No
+Nevada,Yes,No,Yes
+New Hampshire,Yes,Yes,No
+New Jersey,Yes,Yes,Yes
+New Mexico,Yes,Yes,No
+New York,Yes,Yes,No
+North Carolina,Yes,Yes,No
+North Dakota,No,No,No
+Ohio,Yes,Yes,No
+Oklahoma,Yes,No,Yes
+Oregon,Yes,No,Yes
+Pennsylvania,Yes,Yes,No
+Rhode Island,Yes,Yes,No
+South Carolina,Yes,Yes,No
+South Dakota,Yes,Yes,No
+Tennessee,No,No,No
+Texas,Yes,No,Yes
+Utah,No,No,No
+Vermont,Yes,Yes,Yes
+Virginia,No,No,No
+Washington,Yes,Yes,No
+West Virginia,Yes,No,Yes
+Wisconsin,Yes,Yes,No
+Wyoming,Yes,Yes,Yes

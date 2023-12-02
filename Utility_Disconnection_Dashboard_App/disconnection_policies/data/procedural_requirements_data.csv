@@ -1,0 +1,52 @@
+﻿State,Must a utility provide written notice?,Must a utility attempt in-person notification?,Must a utility attempt notice by phone?,Minimum number of days’ notice prior to shutoff
+Alabama,Yes,No,No,5 days 
+Alaska,Yes,Yes,Yes,15 days 
+Arizona,Yes,No,Yes,5 days 
+Arkansas,Yes,No,No,5 days 
+California,Yes,No,No,10 days
+Colorado,Yes,Yes,Yes,12 days 
+Connecticut,Yes,No,No,13 days 
+Delaware,Yes,No,Yes,14 days 
+District of Columbia,Yes,No,No,15 days 
+Florida,Yes,Yes,No,5 working days 
+Georgia,Yes,No,No,5 days 
+Hawaii,Yes,No,No,5 days 
+Idaho,Yes,Yes,Yes,7 days
+Illinois,Yes,No,Yes,10 days
+Indiana,Yes,No,No,14 days 
+Iowa,Yes,Yes,Yes,12 days 
+Kansas,Yes,No,Yes,10 days
+Kentucky,Yes,No,No,10 days
+Louisiana,Yes,No,No,5 days 
+Maine,Yes,Yes,Yes,14 days 
+Maryland,Yes,Yes,Yes,14 days 
+Massachusetts,Yes,Yes,Yes,3 days
+Michigan,Yes,No,Yes,10 days
+Minnesota,Yes,Yes,No,5 days 
+Mississippi,Yes,No,No,5 days 
+Missouri,Yes,No,Yes,10 days
+Montana,Yes,Yes,Yes,20 days
+Nebraska,Yes,No,No,7 working days 
+Nevada,Yes,Yes,No,10 days
+New Hampshire,Yes,Yes,Yes,14 days 
+New Jersey,Yes,Yes,No,10 days
+New Mexico,Yes,No,No,15 days 
+New York,Yes,Yes,Yes,15 days 
+North Carolina,Yes,Yes,Yes,10 days
+North Dakota,Yes,Yes,No,10 days
+Ohio,Yes,Yes,No,14 days 
+Oklahoma,Yes,No,No,10 days
+Oregon,Yes,Yes,Yes,15 days 
+Pennsylvania,Yes,No,No,10 days
+Rhode Island,Yes,No,Yes,10 days
+South Carolina,Yes,No,No,10 days
+South Dakota,Yes,No,No,10 days
+Tennessee,Yes,No,No,7 days 
+Texas,Yes,No,No,10 days
+Utah,Yes,No,No,10 days
+Vermont,Yes,Yes,Yes,14 days 
+Virginia,Yes,No,No,10 days
+Washington,Yes,No,Yes,8 days
+West Virginia,Yes,No,No,10 days
+Wisconsin,Yes,Yes,No,10 days
+Wyoming,No,Yes,Yes,7 days

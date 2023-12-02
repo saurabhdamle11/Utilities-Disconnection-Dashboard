@@ -1,0 +1,52 @@
+﻿State,Utilities exempt from the state disconnection policies,Payment plan availability
+Alabama,All ,No
+Alaska,IOUs,No
+Arizona,IOUs and Municipalities,Yes
+Arkansas,IOUs and Cooperatives ,Yes
+California,All ,Yes
+Colorado,IOUs and Municipalities,Yes
+Connecticut,All ,Yes
+Delaware,All ,Yes
+District of Columbia,All ,Yes
+Florida,IOUs,No
+Georgia,IOUs,Yes
+Hawaii,All ,No
+Idaho,IOUs,No
+Illinois,IOUs,Yes
+Indiana,IOUs and Cooperatives ,Yes
+Iowa,IOUs,Yes
+Kansas,IOUs,Yes
+Kentucky,IOUs and Cooperatives ,Yes
+Louisiana,IOUs,Yes
+Maine,All ,Yes
+Maryland,IOUs and Municipalities,Yes
+Massachusetts,All ,Yes
+Michigan,IOUs and Cooperatives ,Yes
+Minnesota,All ,Yes
+Mississippi,IOUs ,Yes
+Missouri,IOUs,Yes
+Montana,IOUs,Yes
+Nebraska,IOUs,Yes
+Nevada,IOUs,Yes
+New Hampshire,IOUs,Yes
+New Jersey,All ,Yes
+New Mexico,IOUs and Cooperatives ,Yes
+New York,IOUs,Yes
+North Carolina,IOUs,Yes
+North Dakota,IOUs,Yes
+Ohio,IOUs,Yes
+Oklahoma,IOUs and Cooperatives ,Yes
+Oregon,IOUs  ,Yes
+Pennsylvania,IOUs ,Yes
+Rhode Island,All ,Yes
+South Carolina,IOUs and Cooperatives ,Yes
+South Dakota,IOUs ,Yes
+Tennessee,All ,Yes
+Texas,IOUs and Cooperatives ,Yes
+Utah,All ,Yes
+Vermont,All ,Yes
+Virginia,All ,Yes
+Washington,All ,Yes
+West Virginia,All ,Yes
+Wisconsin,All ,Yes
+Wyoming,IOUs and Cooperatives ,Yes
